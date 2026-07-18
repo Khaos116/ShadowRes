@@ -9,14 +9,6 @@
       "minHostVersion": 1
     },
     {
-      "id": "hello-plugin",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-demo_Debug_1.0.0_20260718_124241.apk",
-      "sha256": "c44a30acbb2d4627a5dc4dbc9c422d4f279d09471f6769b0be15c237ec93d268",
-      "signature": "cVwAE9Rq1OQDF8w87+rhrpmtTdKgtzj89YYjWnqqz2jTZNjGk4csgqHfgvjwJLkFihSDQ+wsH41XqX64wEgarLfHrI0zNVFgkDQLvnD1J1W7t8Fe60xqh/jGZTz5l5w65AX1JRdWUF0gEe9+6Qk9awrf/doNvc/xek0Rssdf2pykWlmLerytsh9eboQ+s2C3+1kEe7Syl221E/aeXpS5pRgwkkF1N1YI6+ek7PsYdokco+umeYx/2VgIOeYyPCdOkKf0xY26DabavbiUdN+TkT/yap0862/nzFnCpFVjhHVwZkTioBR2yLIvivlTAlMj0VEi0XjkSvM5Bl31knwYaw==",
-      "minHostVersion": 1
-    },
-    {
       "id": "splash",
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-splash_Debug_1.0.0_20260719_000632.apk",
