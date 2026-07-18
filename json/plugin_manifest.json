@@ -2,10 +2,10 @@
   "plugins": [
     {
       "id": "net",
-      "version": "1.0.4",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-net_Debug_1.0.0_20260719_011020.apk",
-      "sha256": "2e457dcd1641adcf04032351599917c032404ac2c3ef135e95dac89da03b6187",
-      "signature": "T9iDjcBibSwXMLjVLJYD5B+Z7cB2Cq+kgAm3sSioowE8x7j+UFw+MMT9HjCaexUBuSO5N7bpPj3X8SMUAbaPA03GzOdMuGQ9yo5HyIC1UwIYD3V4IcwMmAPXDInsbZXVHb4RStA273tiwDKgS4Zp/F5/eABWVwfRlf7yEov8+IH8svf5UtvfcLxiljDg/uyQYkjabxnh1fze2oqK0etrj6bAT4Ei8ZozvE7efpN1EY4RM3/cdbyzTTZdXZjafbrUzkC7vrh9M1apiZg7y5Y/DqTkj/V/dEQ75bcMZ8g7L2ue+yMkErOZyoAZNE0Wbz7Nrzu7R15yobFwu84ou21lyA==",
+      "version": "1.0.5",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-net_Debug_1.0.0_20260719_013004.apk",
+      "sha256": "74f53e1b110f2b0d2167f73515b232ac3c409b199d5c68944bcb482a4f1abb6f",
+      "signature": "T3AeTqWVjX5USFZfozfUlhJwYOqZv1HBs3BS0hhjSMUOz88kMZ19Lmn/fYNxjhFcFLvb7EeVJMsfiRR3IrmK65lWX731uMhxhnmEwrkcxVaVVxE4Mn797vDeujAuL1wtCA9aPaIGLKfR4Y6q5FEXBIqAbUP0OUAde7Ooi6i93NmpRlH0eZPWVQirkmgXmKZ7DKD3OSB9sbCRo30LVF093gyzjPyglUo77A4XX55045nyCax6X+mVTP+y9MBYf6tWoikNr9w4BihEH3/d7eQRvZ369aOwQsSB4Z3LTRlRuSdV2Ol/f4SehbipBqbWpvp9PBI1Pe2MKiRBYRJy4juGJA==",
       "minHostVersion": 1
     },
     {
