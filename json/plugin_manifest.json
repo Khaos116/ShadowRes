@@ -2,7 +2,7 @@
   "plugins": [
     {
       "id": "net",
-      "version": "1.0.10",
+      "version": "1.0.11",
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-net_Debug_1.0.0_20260719_152519.apk",
       "sha256": "98f0993d556c45a4f0b5a89700ce6efcffa8f0d5332779176552163ad88539cb",
       "signature": "JwV9SFgeUvzgAdd2h0xuCqkC0Yms2gQUhqgYxMPkkuD12bWqwVtxKsgX0sAgYEo+gn1eYw9gdAlxoyhfESczfn2eZmsuU9lU0hqTD+DtVTw9wuEFs+TKssuf1GH10LmiCzDStYEvS1Ak/TpoBBZymQR62jJx/MSE0F/xTk5dVO9bD3az4rUp75sEztcEAow9PfxmvUVZRjeVTpyhot3DLmmBqcCHVhn943czxamHHjOGgSmdy15U1XbH+rwxk2tjBDzhMOtAAIpG6l097rYIVegerq8JiT6mU2BVQ91VPZzDOhCCxwAGJl+sDubMJyalPDkODKmj1XhktPngxdvk6g==",
@@ -26,7 +26,7 @@
     },
     {
       "id": "web",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-web_Debug_1.0.0_20260719_141313.apk",
       "sha256": "4995615fc33807f07e4b9f84f549b3304312aa53f3b83b27fa88aa687151fde5",
       "signature": "ycZsDUfUBolapKCMgJO4l57ffVmenZWFSwMNH1smhCTP/hhUmol+Ki/3LkYFfHVi+z4utHXIDSiZPmNrLDWMw70wCOXq8aoVoddB3H1aJ0MELcMvS53ebbJjk++ltgBK1J60AjhHmsg+4BoPwFfsOJGB1D+5V1isJzKFsscGoH5MrywwVuySBCfgno8Xn0ZiQTvTUtJbm9LBqLdrv4OnDVaS9guQzdUcRa1287NRE/UzY6Gq9Vo9AAjwAZ7xrWjUXhSUWHZnsn5JNWctxDa7oZ0b6ISkr5mWKmOLxIQzCdos0HXsK4BRibtc5zjhSjGnZU1rstlKTD0sLSoj/waiAg==",
@@ -34,7 +34,7 @@
     },
     {
       "id": "common",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-common_Debug_1.0.0_20260720_000139.apk",
       "sha256": "5aef59739b9e602eccbaa5a70b1fe43c2795a9c1d38f4db790db9fad2bbf2138",
       "signature": "tg7AbtMSb3J5dVXsCkxWcho3qKkMq22w5wrwQO7c9vffL8UiVQisdequk1bSqobqiV6ArkXHt6m4v1sw0mz3jhjAGVthrVj8Fj3f/U6y9DalQh2k5Iz6gZZWWArW4iQaE6mG2xDvvKZfXV9zKHCadIr2zOxh5RQ5tuLrhoP2t922OLC19SXRpif+EhdVZFeOMyh4OKTdzeZjwzbJxfRq27/sh85UmOjY3sFGl8ZiP4zNPuucHP76wQxp9vH0f/7a4Lg3qJOio7Z6bYXJBbJrd/M/7drUJPsmWmtvyB+VKpK1q+2/MI5LOchDD3J+bBgwhkOXG3F3mFaDjVxnPn8cRA==",
