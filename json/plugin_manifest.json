@@ -31,6 +31,14 @@
       "sha256": "7867870653442c7af4b171b0e73913bf3d959dc33fa1a82be223ef2513c26bec",
       "signature": "lNqmUOLnPswjLWuwZQ3FUYVbgz5RaOlSXOG6CUIsEpT7torGxis81LtcjLHfSjT5RH0GLU9quVx2C93a1AlYShTMY7s9TpVYQHdxskSfbcyr96ge8nfNsByO7TVVwXv6xsMUedu6PAcEs8B0cS6k+cHHozgYcVEMJue8sxfjB6ud2V+pTa2jmQ/7rJSOsJnfYZR5+awJKfEl8ErhARRM2644ZYvk3nnCjbc2US7sPVZW3oxpviBCHwLx9XmOunn7OtbYMU3+L9lYZZ0pxowvDIw28qAWiS/eVMuFEHjWsaVbhzk8fuo7qjMtKyy6Hn9WUaEY6vGH6lpAhlaW2/SeHQ==",
       "minHostVersion": 1
+    },
+    {
+      "id": "common",
+      "version": "1.0.0",
+      "url": "",
+      "sha256": "",
+      "signature": "",
+      "minHostVersion": 1
     }
   ]
 }
