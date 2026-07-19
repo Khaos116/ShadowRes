@@ -19,9 +19,9 @@
     {
       "id": "webspike",
       "version": "1.0.0",
-      "url": "",
-      "sha256": "",
-      "signature": "",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-webspike_Debug_1.0.0_20260719_083814.apk",
+      "sha256": "25f7edc9171a3b1b8d5258344b775371d1a913035f459ad62be8f333ce05d768",
+      "signature": "U5J4BvJ6EtVQb0R/MONaYQEQBkg0Jy8csGk03IFnNnoycJAv0Cx2t1nkfpumcJIdOz4fvU6t964aHwpFYHqF7wkr9qBfTxaQyBHTnrtrkZE+ZBHSjQHpAs+85dCeDgfLqoZ/d7+SV0p9tCioz8J1yE2Hfs1gESnxkN7I8UMHyBTGVKJtHBjLUzBXVyj/lrjfzIVxUJJNUd12Wr04wzhNT0b0B6CS8ULkCbAXMEsS0VCL6nYM7XvXklSOIymZUrpHtBwgjOY33XRByguf3X7SMHpc8nChovjfO3RPOC1flAtzqcAk6846b/RB4kWSSUnMMZ9ObBTJSbsZu0i3yeNcBw==",
       "minHostVersion": 1
     }
   ]
