@@ -11,9 +11,9 @@
     {
       "id": "splash",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-splash_Debug_1.0.0_20260719_165255.apk",
-      "sha256": "684cfcdc8579806dc4cbd19ed9d233770e63f88f309daf763dd8ebf9dc904930",
-      "signature": "GaltGJE95ucQ2tdbJwTyqn2uo8zF7lMaFb8yoR5d+vj8LLE0g3leRIICRxWbmQNxhpPg5GJ3H+dN/OmKLxPLQyzuZiQ51G8Aw4JL0CWAnZoyNlmnPNaGLUMdo4tFWB0vCbB7kigpzJ0mIZZwQzpgBGXnOQ6LUC6nXq+s9WD3sayrPPKCbk+P6T9eHgzyr1EqfoVk7tUpqB9MaANBsFh7wSl7aaZGqNfY2VXJQKNnkLCA3tJxMzsywMVc13guOanewbNT5SSQWuNQq+JkiiYvLF/bKLtNffq6M5P7KQ5DhkYFvtvkJzSngOMeyOh91a+tC/5HB3U7BVcuxZEYoY1LZw==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-splash_Debug_1.0.0_20260719_170616.apk",
+      "sha256": "729d5142f544e19691d493cc58ee7e509cb1f7f079053e9181f4a8dbc82e391b",
+      "signature": "0nY0DanNKOnDZ50Lw968jFBc7GiKBX325HSiGI9L+QR0hE2C38NgjvRzA8rO6AoNUnpl3bXjfqG6x/ktF2tJMwaFLjHbvq9mCelOboYh6JMDdt7yCdZendxtu52PlewjXf7nb6+o0b+ZCMUKLQEY2vtOtUshGEG1EDWFj03s6lJUKY/9ONtXt2jhE7bPCOyZByGw0HNI4PxOFtkvq0cBB6KFDlhxfIyhfk5lrk+Zg3UlgN2AG4xSr3ua2X7qgVKo/5ekP/5+zSg7KKKY4urwsGK+pS94ZUC21KbLhzbJa27nPakyy/UHyUpiBaXzVzyn9u4lnz67C9Xxr3QcbhJm3g==",
       "minHostVersion": 1
     },
     {
@@ -43,9 +43,9 @@
     {
       "id": "ui",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-ui_Debug_1.0.0_20260719_165253.apk",
-      "sha256": "d727f6e989cc61b5eaecd7171a8189ec918d8008a5b7deea80e43a5521b2c124",
-      "signature": "u5jA7ICwZySO/sN++xgQvlUg0cof0WH6VwTH7ui/1qs9YREv5UaNLlC6+PpOCq2RhgZ1NR3gax2iVoI/b4Smxm2P1vFNAi9skceF752CPpB3Yx0VxQsnqJTVlIccJzs3Sn8JKIanHPNn+/Mzyt7L/lxlzJpeVUBSZt6+87+F481B8TOD7x5f80xfOJmKXMLJGJ1Oq6QXKVI3UQGfeXFaOg+B3aWsm4mXeEkGR/I2I8pR9gxdk4JIFz4Yk3qOHqwxuBOMfALHDC4jRYaVJFshR6kPo3F6GW0lSGC6icQnGA/3dx43ooSd9IH6qQ4gqGAaQZzqWphDjNfegBvEPCQ4vw==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-ui_Debug_1.0.0_20260719_170701.apk",
+      "sha256": "4d65fb07999a7f7c507a9670b36475d3277aa1ff791a06d5323b90c80d15e66c",
+      "signature": "qXEv5Ch+Cr4xykvp37KsqLcXMGEkm4JLvu+pOeC/hCmim6SuEsYxxnv854EBOedLgASMKpN4nlArBPUR0hRX8frhpmAV8hkFVqku5RBpqGrRy/Nux3IFkwwK0EKh/9YVVul3rtsyrv6+67sfQZVrXr2SW37Nj9F9M0bm5XbVHu+zDO4SbBFavP0cp9hHfhWpPqbMwa81QwGEVrA0r5abY5L6J0PWCiypcZkSrD8QxxV0Td/3eyv/20eZQD+4GHVKjt210tBmGb/eN1L2J7NUYDAHhQXZVNhJdSxqI2TchoBhg7OEzOLTMxj9eZ9jnY9Wu4cDXrXQ6+fcuYJoGHgyng==",
       "minHostVersion": 1
     }
   ]
