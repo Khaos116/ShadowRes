@@ -11,7 +11,7 @@
     {
       "id": "splash",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-splash_Debug_1.0.0_20260719_170616.apk",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-splash_Debug_1.0.0_20260719_175203.apk",
       "sha256": "729d5142f544e19691d493cc58ee7e509cb1f7f079053e9181f4a8dbc82e391b",
       "signature": "0nY0DanNKOnDZ50Lw968jFBc7GiKBX325HSiGI9L+QR0hE2C38NgjvRzA8rO6AoNUnpl3bXjfqG6x/ktF2tJMwaFLjHbvq9mCelOboYh6JMDdt7yCdZendxtu52PlewjXf7nb6+o0b+ZCMUKLQEY2vtOtUshGEG1EDWFj03s6lJUKY/9ONtXt2jhE7bPCOyZByGw0HNI4PxOFtkvq0cBB6KFDlhxfIyhfk5lrk+Zg3UlgN2AG4xSr3ua2X7qgVKo/5ekP/5+zSg7KKKY4urwsGK+pS94ZUC21KbLhzbJa27nPakyy/UHyUpiBaXzVzyn9u4lnz67C9Xxr3QcbhJm3g==",
       "minHostVersion": 1
@@ -43,9 +43,9 @@
     {
       "id": "ui",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-ui_Debug_1.0.0_20260719_170701.apk",
-      "sha256": "4d65fb07999a7f7c507a9670b36475d3277aa1ff791a06d5323b90c80d15e66c",
-      "signature": "qXEv5Ch+Cr4xykvp37KsqLcXMGEkm4JLvu+pOeC/hCmim6SuEsYxxnv854EBOedLgASMKpN4nlArBPUR0hRX8frhpmAV8hkFVqku5RBpqGrRy/Nux3IFkwwK0EKh/9YVVul3rtsyrv6+67sfQZVrXr2SW37Nj9F9M0bm5XbVHu+zDO4SbBFavP0cp9hHfhWpPqbMwa81QwGEVrA0r5abY5L6J0PWCiypcZkSrD8QxxV0Td/3eyv/20eZQD+4GHVKjt210tBmGb/eN1L2J7NUYDAHhQXZVNhJdSxqI2TchoBhg7OEzOLTMxj9eZ9jnY9Wu4cDXrXQ6+fcuYJoGHgyng==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-ui_Debug_1.0.0_20260719_175130.apk",
+      "sha256": "32aa9ed341295c8f69a31a70c59dd942c37a23f3bf52b3ffbb4a1bc7ce0e8a22",
+      "signature": "AaMbbYMNW0uVQrp5B+mLKC9sNMueZtvt/HtJd5ET/jrWvft3ZSNtf4JeELGLF9INbQypHZoyHwbZG+fPNwbMepdK3+NRugDgWXSmY0hCUtUiXmJEr/ih/vbTI7wy24JY76MAl2IiuKgSGHg4bp07GbXVaGj926FfqxvYGRl0nicJ5G8ckpwle28U+DCC3nW66q45lKxP5VMQh9Ba7GC4x8Bk9fUu6isCcwSHNWDHvK8NIh3BCYuka2B1vV9zctRzj9zwE2hZ4Wd0bYPcQosd+kESu6M5PNjD0Hgf2QDYTtsGZMrx8i7ObDdZzbhvb4dvDT9oVitdue0MSd2hxLWoyw==",
       "minHostVersion": 1
     }
   ]
