@@ -27,9 +27,9 @@
     {
       "id": "web",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-web_Debug_1.0.0_20260719_133950.apk",
-      "sha256": "7867870653442c7af4b171b0e73913bf3d959dc33fa1a82be223ef2513c26bec",
-      "signature": "lNqmUOLnPswjLWuwZQ3FUYVbgz5RaOlSXOG6CUIsEpT7torGxis81LtcjLHfSjT5RH0GLU9quVx2C93a1AlYShTMY7s9TpVYQHdxskSfbcyr96ge8nfNsByO7TVVwXv6xsMUedu6PAcEs8B0cS6k+cHHozgYcVEMJue8sxfjB6ud2V+pTa2jmQ/7rJSOsJnfYZR5+awJKfEl8ErhARRM2644ZYvk3nnCjbc2US7sPVZW3oxpviBCHwLx9XmOunn7OtbYMU3+L9lYZZ0pxowvDIw28qAWiS/eVMuFEHjWsaVbhzk8fuo7qjMtKyy6Hn9WUaEY6vGH6lpAhlaW2/SeHQ==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-web_Debug_1.0.0_20260719_141313.apk",
+      "sha256": "4995615fc33807f07e4b9f84f549b3304312aa53f3b83b27fa88aa687151fde5",
+      "signature": "ycZsDUfUBolapKCMgJO4l57ffVmenZWFSwMNH1smhCTP/hhUmol+Ki/3LkYFfHVi+z4utHXIDSiZPmNrLDWMw70wCOXq8aoVoddB3H1aJ0MELcMvS53ebbJjk++ltgBK1J60AjhHmsg+4BoPwFfsOJGB1D+5V1isJzKFsscGoH5MrywwVuySBCfgno8Xn0ZiQTvTUtJbm9LBqLdrv4OnDVaS9guQzdUcRa1287NRE/UzY6Gq9Vo9AAjwAZ7xrWjUXhSUWHZnsn5JNWctxDa7oZ0b6ISkr5mWKmOLxIQzCdos0HXsK4BRibtc5zjhSjGnZU1rstlKTD0sLSoj/waiAg==",
       "minHostVersion": 1
     },
     {
