@@ -19,9 +19,9 @@
     {
       "id": "webspike",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-webspike_Debug_1.0.0_20260719_133950.apk",
-      "sha256": "f6d92b1c3e3ea8d3688fec0581951dbd2c2030d33c67947d38194d7c7bd1b270",
-      "signature": "tKaOeBkrwc4OZIJfYWdhTBQWj/UqwZmDpUcEsdr4DFsXcpEbN6xBDEJg/p06+rviLqjqBbDQ4aqRth8g3zhxf6pBWlkOc8aTE3f4MieEa2KWTUsSeRKAAhnTMNgwkhPCrM4SJhKH+1CYbDDEMJnwqBMdMi8oGN1SWyMxe7fQU0jrnsEKyHWVGh1CrnS9QcFCPgZp+BcA1ptyBuOW2pJ76f2rF+puvsdtZ0uD6bNQCd9JfejJhqoXlDP39qhwmcdhMCQfgJ2lgtvuqd8FWCtTGW1uDC2lYUtOio3mGkkf3bWY3hxciDcDrptAO961Nx24fpD7dlNydKNOm/rKDihwJw==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-webspike_Debug_1.0.0_20260719_135546.apk",
+      "sha256": "4e7db4ff78ecd72bec4357608a17076bf339293f685906896944c5852a95da1c",
+      "signature": "FLq28jkJdkZDvV8n15UOhskGD3jYCiFpojUAecfzv7S5xsCON5y+yCr2Qe8ze18B0tbpOVyqZk9gT/d58qVNkFmvYp+vKCB+RHWRxpCjjyqBti6Q0oi42+Dx4jow5iqiPlZUItpLiqkviqfhDSL86UNPqkGx3mnrWs8eQqMiVGnibk3u9PIlhV1jJK0uuDZUfrz5sQYrpoQBSrhsCuLOypxsPm/ZOaG69DjBKKowpL+EkySB7PI5y7crKIYKpAXJY8y0jFluwK8z3+TNC765wqqJiApu8exkgvwrrEjVu1Llgcbq4uvSg5/8YeesvuCjZOg9ozuGCPAyyaCYmvrZ9Q==",
       "minHostVersion": 1
     },
     {
@@ -35,9 +35,9 @@
     {
       "id": "common",
       "version": "1.0.0",
-      "url": "",
-      "sha256": "",
-      "signature": "",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-common_Debug_1.0.0_20260719_135547.apk",
+      "sha256": "16adfc128248ee4c19eb00673b2287acd4265c533bb5fbe04a3043f9ab1abc97",
+      "signature": "ZmO/KU4jlASHu7UKWUAEPtPQNSUMu5mS7gvQbnAvBkSSOSEUNZy7xtdWCaW71M7t0Id5v5ouonad/Jr9BY6r50Aezmgpee4aOdyQPFFqO2c4cACvnZYUHeJC/Oyy7co0oCw66BZXarptoKTvYa8rVGr4kqLODP+cY6lylC8uBUcJdg5+g6kbASxStvnpz6dt/E/Zt/lGgewX8V1vBca6HA33Nf2+KoS5rJhYDw9GgDVKDmZ1PBQdAF/RUlVSO/qMRQ1uJR6Zt69fl8N9FE2wThultPjXVsDo3+AKJPO4GIV3mdOKnEhPDhNPR6iOIpxCFH69ruZZ1s70qOXK9B7+rg==",
       "minHostVersion": 1
     }
   ]
