@@ -15,6 +15,14 @@
       "sha256": "f68647e8d2046a30da6b1e49ac58af89ec964ccdaeaa934a93183109330c6673",
       "signature": "ehIKQH9E6HiWnYwCs4CVCRwDHaUADec63xvsP73bHsqSMvsnF36ByH4DtW9+2hHqZUqUWbeU0ZPNzCEPY+iW2pz+EQDXW5ZqikiFXMj0ViCnNS87abuZbd1MVjlnQn3WrYOXrMG1TsYhgNPc94xbK7P/HxOBSZGAdNyDaqHt0YfirmGINsgUloSe6h6K/AAzq5X9ElJgAfXfl+dio9615lbagwA2kC3Se/NEuObIpIoypVKxN29gQ9LVgklu/2Rfq4//zLcOalO32s5qX0xXj04O4wLNbqGntGLm5XQfH4LBAzQ1jZSq5FaNE4cTfthVmimUtRxGg4TIaKtK+Oq4Lg==",
       "minHostVersion": 1
+    },
+    {
+      "id": "webspike",
+      "version": "1.0.0",
+      "url": "",
+      "sha256": "",
+      "signature": "",
+      "minHostVersion": 1
     }
   ]
 }
