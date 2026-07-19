@@ -31,7 +31,7 @@ def sign_apk(apk_path, private_key_path):
     
     return apk_hash_hex, signature_b64
 
-apk_file = "live2026-plugin-login_Debug_1.0.0_20260720_025114.apk"
+apk_file = "live2026-plugin-login_Debug_1.0.0_20260720_025420.apk"
 apk_path = os.path.join("E:/work/ShadowRes/apk", apk_file)
 private_key_path = "E:/work/LiveWos2027/jks/plugin_signing_private.pem"
 manifest_path = "E:/work/ShadowRes/json/plugin_manifest.json"

@@ -59,9 +59,9 @@
     {
       "id": "login",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-login_Debug_1.0.0_20260720_025114.apk",
-      "sha256": "951303a097586b19b6b66bf3201ef49a0c140925d9dac7fc08cac7a506f591f1",
-      "signature": "fPPiGINiCj91NoPdbMsfK3h3vfor6vqsq8//v07x0pHltHPNEzhgvY+uQTjE4osupRUZsi+aNaTHgXry8tTU6nbJz9hIFsxsuQPujdgVENkJDdDZx5axjvUfrhWi+ng9dgCiAm0kmlS4wJgOsZn81D3Q51KVpIvhLepcWxNIm92PBTArAYHcfJNA889oJLd0ybH1Ko+p6O9mbv0yQKNwzUH64PqJJQyvmIujTClhkqT3zXlKu9CwJrolYYeRtlpE4q4cgslC4EX/uMIONwrsAvJKw9XQ2Iac5MIoSKhg3TNPGLoEUBZlSeeaTvCj5WIN6zlskuNUzPFZPnLtVSuLfA==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-login_Debug_1.0.0_20260720_025420.apk",
+      "sha256": "cace074543c49a1dc68b1b57d27884c429be47795308788f27b46cb0eaedd15f",
+      "signature": "vY/5FA1ZzoCVDuUTdKqDhpclhuLvKes8z5AELX0Bu/wzmSxSWnl8DpLJxlrC/YRbLKwx+5HeBHuOsWc3bE8yzHIy/hrUzrXK7BFxDQoIstDnsuA+uh1iwv9TJ98nC4yH/rMbUm5/hkCX2Un1ulzfpm3EXad9EX+N5aG0Wg+3OQoOu+sIuicFnQmJdM7llX9+56s5i66CQjOHYUqLIY0fCdvLobn1eyfd6uYBViRt8KR9jszertelcu3zoHCofmgVG9LBQBe+HQWML7ZhivpUsJIC+843IJYmTMWm7SZjiGKVcbQaXGhoQ0L65+8IJ9rG+P+4/hTrW/Qu7av1cG0QlQ==",
       "minHostVersion": 1
     }
   ]
