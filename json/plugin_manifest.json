@@ -19,17 +19,17 @@
     {
       "id": "webspike",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-webspike_Debug_1.0.0_20260719_093714.apk",
-      "sha256": "2e93e9e6495071f9b7f3328a5251a6783397d2afa0abcbe8d1d052eb0aa37f5b",
-      "signature": "ROIb2a2F0Bk/HmVf8v2ZNZe6jQ5ZTG0ETFmrjdFkF7+TjYi950e+WYEzK5zqOXuOuJL8g3Ph0Ju+1rqxk1XF4sMdoqAImYLZJ/nz+L1yPiInIj2lDkr4+xf2T3ZH01Ej319olDZeqYQR0uWuQ4APy2oKKwZA7bJjyK59g1VXPhcJEOSQigcYFt/XD9YG1gBOvb/D0YbeMJJe8a5gBtcvfBdqsGDsEKFG1DpJbo/IfndGdfYQPbCBMsXN7Nyqn25/mJg2mU1aJNr6zzuikSfCCqCyJfR6lB2fuPcA3kmOEnVmhA9UYdF1SCCMyHXQzrr8gWbEwLFRtHCREMjofz7Gkg==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-webspike_Debug_1.0.0_20260719_103425.apk",
+      "sha256": "85716da07209d5ee3a3d8823235cbe911e3e3fb677feb5e91ecd648cd8792759",
+      "signature": "CiU40RQmT/tud2M4dQEiEiEFewXyXoNxmtsno9rojOHjX9Qd74W9iDqiMI8hvU1yVPekqznIu2N2obssngL9jORS/x28ufQjkxMxFtlP1/KW6rbErhuItZPHe5zVPuhXV/gsAC3FVzlg10jMGHBvpa4i4HwK/YKLuBunw6gI6LXZVBTrB7OQrYWpWq4ikyb2hG5F1wWRUc6upEKczcbE//8yMCovwj86ioQRRP530wh//LYaIiYxBqWR2toD8KHW281Xn6B8nxSOkV6wGnfMG+uEXjYta1SILG8s9gCrv8kuHw7fafOVFH9BQQ+iraMNA4ApVAlrLjqz8AugsMGVaA==",
       "minHostVersion": 1
     },
     {
       "id": "web",
       "version": "1.0.0",
-      "url": "",
-      "sha256": "",
-      "signature": "",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-web_Debug_1.0.0_20260719_103344.apk",
+      "sha256": "8551dd2efdad3fc54dfd2eed0801944417b123660c05530704904504a305bc88",
+      "signature": "E8Fo74k/lKjrYBKFJV2QXEOdfOStI5PrBOH/9y4QTDi8SI5J0DwFXam/E3mqORU2IQJZG7AmIY1yf89Jj83BPm2xpX4IXfVPbzb51GNq/cZnVyMtMmjcJkIZ+XtUolQfr0cLAmU2G0xEAdSUx4S/oHCnZjHIqL9KDOAEwu2hklf+QxI7riQU7hVnO6N0DvaJhBn829SugvWAzXWYYj3cRrSq6P2ndwjqBGm7SQ3KQWHZj+qOlnZGOgXizWVzvXaiivEN0xAkNPjFoichUcc8W/udzlh2xJXbd7+eknQw54ASa7kBuspfVZVGvbINmfS2JPMpVOGHAEeWSpZGA9PF5A==",
       "minHostVersion": 1
     }
   ]
