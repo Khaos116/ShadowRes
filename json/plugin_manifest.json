@@ -43,9 +43,17 @@
     {
       "id": "ui",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-ui_Debug_1.0.0_20260719_175130.apk",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-ui_Debug_1.0.0_20260719_184634.apk",
       "sha256": "32aa9ed341295c8f69a31a70c59dd942c37a23f3bf52b3ffbb4a1bc7ce0e8a22",
       "signature": "AaMbbYMNW0uVQrp5B+mLKC9sNMueZtvt/HtJd5ET/jrWvft3ZSNtf4JeELGLF9INbQypHZoyHwbZG+fPNwbMepdK3+NRugDgWXSmY0hCUtUiXmJEr/ih/vbTI7wy24JY76MAl2IiuKgSGHg4bp07GbXVaGj926FfqxvYGRl0nicJ5G8ckpwle28U+DCC3nW66q45lKxP5VMQh9Ba7GC4x8Bk9fUu6isCcwSHNWDHvK8NIh3BCYuka2B1vV9zctRzj9zwE2hZ4Wd0bYPcQosd+kESu6M5PNjD0Hgf2QDYTtsGZMrx8i7ObDdZzbhvb4dvDT9oVitdue0MSd2hxLWoyw==",
+      "minHostVersion": 1
+    },
+    {
+      "id": "log",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-log_Debug_1.0.0_20260719_184641.apk",
+      "sha256": "70e291039fdf79bca9778cfe5dfdd1f51a03e378b2df6c8fc95978fa69eb8003",
+      "signature": "jUk13JwIen2EquvXLYwrwz/mSBtwlbON7lsVE8vlthAFJK7sI93DBXqkbKQBLvldmfP75NS4Ti+0uszWqjfg8fR6mX+QOtKUS5d7AK5TJsdVFq+GeH+3dikJ2qEMCaAHkObeC1YKjHd8SSIzTSQ/D+vs14zg5/4Q3rdAHaazvti5Bhx1Zg68W0n7JYqNiE2B+wQNaAgCGsUkxqno48PPZMXyT0LOVyuWJNaeVuce0GM5vqRnnm21pwmzZxxTF5Uhnc6p9J+qaAgGEkmMfFQtzt5yShY4EBzxq7jMNoFmSzeEVRntKqnyocWgCy51KGlkebNaBGMg+QxYiwBhwW5BYg==",
       "minHostVersion": 1
     }
   ]
