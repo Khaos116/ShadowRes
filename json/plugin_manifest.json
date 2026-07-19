@@ -19,17 +19,17 @@
     {
       "id": "webspike",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-webspike_Debug_1.0.0_20260719_112458.apk",
-      "sha256": "39c9ba76619fc7bfe8dac36ee4ea9504a17bc2e5675ac17cdccf749664c282a9",
-      "signature": "OAl6lfhSpfcm3ZNUKUeTlLS9MGMIVs3ujs/RA4+U0o3coMBEixD6YO3DqGh7acBzULR6wJdFWl0aOxH5AQZd9nLCeot3c2oPmrAxuChWsb5BHTfg9DzT0MUxT4jXvBdCphAujXk5HCDr0JZtQrCYa8P2bqB7MafpDtGbySt6RmW4ecdJkxpe0e5hqQxttQien39AljR2eIUSR0OSbrXJDgD13v3o7yV74Y5Nrq94bbb3S8jEuoduwXheIk3EfJdUL2IyA6Xdc7gaLKoEWW3pdKkjW/ZAwxtF5Hitk9AshE6+yVooU+dVZ9xjepNTeHcGBMOInoHgvpxbuNsohCSCSA==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-webspike_Debug_1.0.0_20260719_124946.apk",
+      "sha256": "9cc689a80050bfd7e828af087e3b5fc3e86fdf7196d730758f6ab2b046f25ab7",
+      "signature": "ihbIMwjdV48vmwXapYL2PtK4vHzFcB01AmHNpEDVrlwPV74DZ/TJ/UUJYaqIHO8YbHU7lK6V2DUO2rlHexzKXHKEvtnUIjet1aRbuetmwhN4NaAlZl2vdzY1847lrP+m/jKO37EAhqedwYPHWbU/V2QyH3ZuJLgkyh6HKsmu+uQSDJHlaT1ZGPaRycUSCSCR8l47483HHeINSfvkQpb5rBRP4M5rkA0fDaa9Gv7HS++VEYnX4aH17W+RikQV/biGFQ1IFqBIHRlbxVS6qyJ4kU+ZAjAs79xl3QqBKhIpFFfJEmhsVpRyjtXgxYMkQPFpvBHMTkiFY9dcROFdWfaUVQ==",
       "minHostVersion": 1
     },
     {
       "id": "web",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-web_Debug_1.0.0_20260719_112458.apk",
-      "sha256": "fb9c35e759022151266398618de06c71e50e2597d702ec72f8ae57fc9d9b18da",
-      "signature": "ffw2EBndgPb6ylkBtN1mU3MVfsJmiVZ1fyCYBvcXVI5gfB5AqiWYTUsmrzPljzvsXMEZmevorCDkRsxmt3C2b2ot6Zfjc0N4C2lpYggT4pAn0ioRh3CTdhW5J0pobBaNCWzrMUmol2Prg3JCIBY0q06Hgh5uGKKZvGmz7NKOE7nm0OexiKKCADOZqmCLyJZtO7Rm7vhyxjxMCYkZez3uOBQU3RIfHw7wQXaKCnAxOQBukqjJ6NwYqPR4hsixFZCRuQjTNV+NTVkWFAwNBXQU0dsZqPIqUKYRqwBztJOYtE2i6lGPCBCsxREZkt2tMaqz7H4UMoSKFMsVoTuUdUm9CQ==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-web_Debug_1.0.0_20260719_124947.apk",
+      "sha256": "bcd0c7c5ff685e4dbb05e0d6e5553a3ee8da8284ffc04bda0c1ee5b4b3528a25",
+      "signature": "MCnEMZXxS2Krp/G2+pejAIqBseCyzVmHKTKi1f6ngio15iNxDIkxQXbqdLzPX4rKQcrad1hfy/uQtQ79LX48L+dV1IweBaqtFY8+elBi7iVY8v2rvruRx8exJ1X4uIJZvEpOLQ407Gwnxz6WOQo4b7ni1U05O/E/oLp3pDqUo+QQLjdwkohedwmnBFd5vcVE3qPfjE7/kPSOgIAo6h0Wx/2hvsyN15CSAMRizg/4WsHADGkRyz3Hq0mJpjTLf0FNnxh0TGnvTTBRf8GOo9G0gu6K3srntoBpBG81yAUKLGX9kBn5sKdW6p4ULrErP4VChhhg8QMH5QjFdxZuXkjPwA==",
       "minHostVersion": 1
     }
   ]
