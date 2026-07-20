@@ -42,10 +42,10 @@
     },
     {
       "id": "ui",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-ui_Debug_1.0.1_20260721_010856.apk",
-      "sha256": "ccb1a11aa91ebff4a87aba5c9c3341201474f05730ac363f1a19fc13df045873",
-      "signature": "sCK6Tz8WKMFwtYdO0Egsm3P1VFraSjccn2EHqWik2Wgod1t2oN6T7VZJ+Dscq57NZdG9PKVMam3UVmNbFQK0D7snDfjG6b84Af3Y2oMulmnHM2r/KqzkO2vswf1kjVS0GSEtkaoNQeAmf9wud5riMFmO9Z/gxJsoICZ3FyTnyO1fPkaAh1quS1E0zhe0+rNjfFm+AqRdOgIWRW3x01HI3qMt1FDzkLpogdtMXoOPgdnlMnUB2LbJg1Qk3sii7rwV8inXV8fRJWjar+GB5SxSlOGky0xDlxxrrxg1CD6TlEbnblmK+S02qkrBhwOE4GzF4QsmcEHtIKZ06r6zHznrlA==",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-ui_Debug_1.0.2_20260721_011401.apk",
+      "sha256": "bc575617c476293c9f89ecabf27a3b92dc28c4f33459a411074d10eab311b030",
+      "signature": "j5ESkXFXEKEB4l6sdq0en/m3iNbXtryanYsiW5AKknSeXbBjqy9Iy49lEHmu8M26073cacj0oKhoTv2vQuTu20nNU/zjIm85sg5JivxzVeovhGm4KjnjVnkpjr9Un6epyYaLFFFw3ok3UMLXCdR5jdcEZY/bxql/Pj1gcZ60xc2Qf/1MDgjTLRi/D78uol8WMuvaW00VQjENoN2W+bYJfCbAuKg6Auk8p8WN3KKFHTxu3uvA9Eg7+x10ll76cAymKE+Q/AuvAlPKtJYdR9q/ycNbofpBhMrLtAMzooM3es53Jk/DFIiB6o29wJtPYj9wiN26tGZ4sRI+cyVB1eR39Q==",
       "minHostVersion": 1
     },
     {
@@ -59,7 +59,7 @@
     {
       "id": "login",
       "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-login_Debug_1.0.3_20260721_010901.apk",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-login_Debug_1.0.3_20260721_011203.apk",
       "sha256": "c5d0aa8f2a443e652c2d22473f8c6220af61ff103d2fe58f0a8c5d732fccecef",
       "signature": "WMi23RLryvwrp092X5YeJpaRLWn6DFAJjB1UdzICYCU7iLAxkY6F1UUsm2bLAzNTk4xR9Np6J1BkNgB9O+YZu6sgnMt5+ybr4ebya11GwwmopkItgmvMvMKrMFhB/m+pDnLA9l51BGGR/oXwcHL/1qFrKj2Koe7I+O3iWaSrPagpGtLkUJ6AnOndvjTPk0FksaUPP8xXW257Gw5WIRAVkocc/oE9svnCy2/pKVrUL1VFzhyvEJ2/QJgLlWMNnDAKGeq/hF3dst3/2ExK+9GA5QBoEp/tRsHW7OKwb3EuJ/E0VlkgFLND8f1OwKBZjx/weYcM9rXuMnwRpfg4nlJKmg==",
       "minHostVersion": 101
