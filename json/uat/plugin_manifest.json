@@ -11,17 +11,17 @@
     {
       "id": "login",
       "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/uat/live2026-plugin-login_Uat_1.0.3_20260721_010901.apk",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/uat/live2026-plugin-login_Uat_1.0.3_20260721_011203.apk",
       "sha256": "ce0f8211f5a1711a31c4d21377b420d96bed78d572f9b5e88c772e057b25eccc",
       "signature": "Yn2BBAipmcADYsgOzrNgEtqNGcadbbxGylh5tyPryA87vHzuscdRj/2eBEK/mVjs72WDzJrrHSlHUQrjDtiQ5tUUO8qgnRUYn2SR1G4BPOB57HDJG5ER5FM3odJdUfP4NQATUzXSLubQljh7HG4iyqNVMbIrwaxDaKgVZpso6BkuSx9bSSnKxbQBfjhIZrQ6vrGO0EEW1/diJiK7znDTrs4F88jIJU55we6Z/KV9vq/znBxcQmSAJCMpmAEI82eOxZqa6CYbGJ6+nmJXOcHpztPZitOos1U+mXAfK2UP4SeZY0uUF360btd4A00J3s3eHZoCqjB1WrHN6PJaAKbD/g==",
       "minHostVersion": 1
     },
     {
       "id": "ui",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/uat/lib-plugin-ui_Uat_1.0.1_20260721_010903.apk",
-      "sha256": "7511e7f6da8523ad55f091fba8ea97112b6a58363da7390d77a2e3a114a8a874",
-      "signature": "OlRPBtA6n0ppo6TofHyx0xVcu1B5ruR9NJ6PtjVKJ2MCrm1k8CxTZZAkdisZVGkM9ZBK+pbar1LNpgheTYnatzdqCHLvmwXMd+sVqtxi7WuG4MqmtDevILkwTELRp4syyABYWNrgT7qdrTc6cipdeP6aWmuwmmjs1jvb4A6WznX3WnNL9NTiq5dy3mH+/v7oJdoIAN1Q/iSfspNNuo/u7MSW/sDUqee4mtyDeUgOPtxqWn9PsFzevExRUxlepyHS/oWGnqeVJ0HKqjNug8bu5r0JULd4ADS87CXEtqQ/636t7swtLfpEsMTjhTOQQFjB3eeifLYZRR24LiQgZ9f31A==",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/uat/lib-plugin-ui_Uat_1.0.2_20260721_011404.apk",
+      "sha256": "0772412389de07ee675bacac99fd81ce5fd08783668e30ae3b2e0c3190206b01",
+      "signature": "bFDeGuqqZWUoRac49Jiw2S6ZE3/tS5C/kC5jGilTzA3h1OxJsgSV8+D9ZPQNjv4XjSfjjd1EpyfZQSi+x5GmN8eVacwx0kTHQYGDOchHIdW2AhjSNigz6jYQYpNHfocqzH9TDo6rxzkb5RNDliMzR7mYuFiRJBhHqrf1Xlpjmixr+PNv+G7cAjCHP0y22luV2zQSzKbj8rm/Opkdwx40K+fUC/dUFvTNTUXNi71BZF7D4uSRfmWWrvkUSPXe00mLMSHfHpGiZJHrbPgsiOIuVjk889dEjj/dafRTTFqjU6+gYLxk0nBjrRe51DhGieZ49TC/ELOytYSh4pLkOXaPAg==",
       "minHostVersion": 1
     }
   ]
