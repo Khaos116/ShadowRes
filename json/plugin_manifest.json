@@ -151,6 +151,14 @@
       "sha256": "4d18fd7775b208cd2a92e67c93977e6dd538456aaf8b0d38a5917fa145fdc6d5",
       "signature": "imMZnPUWVH8GsfLyMElAtlcswPR+shgNb/q+8xzJP7DWUKJ9HHjBx6fHF6kZijwIjaEv6CgcuTagjGSfbBiFRr16fRZFbjgYzyqgQ9mfey9hEGpKZ5kEUtpRaTKhmDj5oTuwM5TYdWrSmEXsa5/Fcu/Cm4qMpJpx3wwtR1D9oemUIHC08aoNc3h6NI8g01Sj5/5DyVZzCESCbWWV5n+1NwnG1PPq+/OAbGvMJCakYRpI9tmaTX5qYO8BlONaneVl6uZaJJP9RsCmjm7gjmk+/X0EkD7jFsMftY/raBo5ujCMzRDWJf7kOrR5Z+KsmBn41dDacx4SBi6/YNRuWYntnw==",
       "minHostVersion": 1
+    },
+    {
+      "id": "domain",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-domain_Debug_1.0.0_20260720_222043.apk",
+      "sha256": "f46272863f43f8795ef65d6e232de1a68f968bc498985f70739d69e76fd2e700",
+      "signature": "HHOqLqkNRhY1r1OZb7LisYtc6CPbzqiu/fLLzx6rUR4Jnq1/25M3i7v5PZfDOMqIGA6lZf2jEL4+aA7L+f6pzxbmc0VJzXPP+BrWJksiyXXCWfLISkzGD94XRdZQfXNXucVd+yNn5N9cCZbDwyRDadUtnfepWRCqlfAik0XgT5ofe/PqNZScKsp5BHy4MQKQfGAnGEkuk9tzZ7+tVDyinqkXYODp5kj+bkGycG1I6txmfhWqwXmqiLnJhncm4G6D9yMZoygC6uGVadtJmem07kFhnylY6zZ2DFZJBjF4YZklL4PQb71DYadYfZKMAzD3maZ/0shBA6Te3W5S9mJtuA==",
+      "minHostVersion": 1
     }
   ]
 }
