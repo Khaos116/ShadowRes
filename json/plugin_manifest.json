@@ -63,6 +63,14 @@
       "sha256": "d7f0f605d205d39d70edd1bc8bd059d7c44c5e96c9cc4c620c99e94a1b2be2bd",
       "signature": "e4mz3WGHMmzGXNZtoSgtAe6s912bsX1mcQf+x+1UmDyS+81qf8Nsgsc9OeRZ4zumcIz1r1bd6JZhdxQ4PHScRPyjBK77/u+7QvcpcQgGSP/2wYvUY0DcKmG21BU/ieh3lWrPD1kyZVwuIh/qDfgDhNGdk+xARMCKqB+P//0sGAO33R+a8E2s1wVimlIAx6HkZhsz8SEZMvJL/jElmfloBgdbvDxtsYAimawpiAtvc4GRcBOYbfz7FyJtJ++qNM7bSOApf91bC/lpJi9RPHjZqdOQhDpJN2dHQtGi+zVtp2kO1barU2wSkG39x5LseIG+YLP4DCzv3h9zKPgO14bPMw==",
       "minHostVersion": 1
+    },
+    {
+      "id": "home",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-home_Debug_1.0.0_20260720_102901.apk",
+      "sha256": "115768afe4cb2175a2ba4379c9a16241fffc7bd14c0430c044a0c4478ade3b3a",
+      "signature": "Tk9kBwVfDnfuwv3420NSqB+RIn2+1bw410UCDZsuxpKj9gyubGTkQTF46u/xX4FmyzWHU7Ow0a6SE0TEtxBFKOZ/wcPr0D1WHdcBtN0iFvqUSc7PLixujfRhrNLeJJgy3DxMVkPZu0/G5WZYSE9urYia8ALFGyIY2JX9gHTX1EffUkIU1Qv9kfav7ofDBVT1kbEMH4wiq3tQa6bZtu1q8Y3xggvhPFV7hDo6ZecIcBRT+IC/JQB/eexsMS14HWBJ6jXa2kq5M2bQsagy0crFJapljBKGpD0Omo+JF1O7F2M21i9i6a2AtAFRElV5sE9c7KRykdnQ2IC7mLOyav21fg==",
+      "minHostVersion": 1
     }
   ]
 }
