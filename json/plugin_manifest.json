@@ -3,17 +3,17 @@
     {
       "id": "net",
       "version": "1.0.12",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-net_Debug_1.0.0_20260720_185942.apk",
-      "sha256": "11f4c055aa7e6e4c828ed9f27a5fc806cbd4d8b845a8999ef6c9fce26f7dbf17",
-      "signature": "I9zCpfGMA4mjR4DRMETs3jnCYs18l7w5wSQFWndmlWMoBPBmLQ1r8vdq6pwLtMeaHj/JrFgGqRCzQloa3c1Bu5SFGxV9u91yxJ/IwAmr14e8h+kss0Ws+StxOxMXenF5BBm+VR2NES8AsWslsPXA8GE6ujFLa96GJczci5CTiPdOUmHXFmsX3MSGVcCM3hxNpZeNMBDUncyDd71JythH3ilBwHlmDGgzxRy6r3VsUsze411YAZVpD0u8wHWvWGtGHziS78Y7N8lUw6+ftzzl4iN9NYS4eCFz7TNtLZb/OYJTKLTG9Dnfc9QW8R/aMRDHByykziO93koIuyMeo+owzQ==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-net_Debug_1.0.0_20260720_192053.apk",
+      "sha256": "1ace07835b8e4fdef42bd8a7370864c9a5dac7bc0b62eef922c665c7fea78f76",
+      "signature": "EFz75SjVuJaB15WfOG5btHwyDXxjy2Evmu5CcQDBO/JJd0+bw/MadmCTGisNKEhhim6j5JtyeKNLV3ZEZQzmUEWHVtTWG8R8jeld9HFDFYC11Nyt1yU8Dj4SOaCIGMfn0gJTxv6PnKxWwHRLV4MTX43IfwSDLpVYj++X0gYO/qxfZxac1mMFXumpqwjxnHjaS3l0LgT79LR6SpSMeI3CleuKtouK9vRfRN+igZWqMu8/4V4tnYTVT7Lv0uElc3vrdnE4htZOzjV84YpSqeo8CJgExySYSBcsM+s1OVyVYQB/ROXhAHtUmflr5TNtHKofQwEgUhLuoFhR1A4PjBgkHw==",
       "minHostVersion": 1
     },
     {
       "id": "splash",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-splash_Debug_1.0.0_20260720_185942.apk",
-      "sha256": "e3d250f1390137a2900e548ce76d8bbf4eecc396c76d0a62698c2fcdcae8a0a5",
-      "signature": "GULnIB2d/23XWLRJtR3/4Kd80DWJeCzkbFpe/EPiEOvMSkED+gdjW7iZARaebW6EyOJA3cY0Po6XKWIetunWY7c4ZC09373VLHlj3f9ZxsjsbqlGXvwBGVtinXoTjQ6PMek1JxdOicYnU0Bb8W4QDeiEh7aBqrtjjVv32tGz9aRtSA14RapIZbsoX1Np2oR+uKFPIOZVj6KWlkSp+tp0s0KTma2oED4HiiyvWi9ToywWAou6DGdzpeO3kvTJSGu69gEQlwJE9jpoGxKaFk+l+t7+HI1DUfxlkDcx2aKg6eyZEmTQp/aj6s4o51tVwZQJOfBxTIxMLZI9JYK9eyEW5w==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-splash_Debug_1.0.0_20260720_192053.apk",
+      "sha256": "ea42900c36a4a55482234ea2c2e01959a795d025a112686ad34799ad818d79f0",
+      "signature": "SPzT+mc1c4VKLH5JFpRC/Ad5zjfO2LrkN0NQAj1C64llyk1bEkjjcnd8fk+fqA/Wt2S/IQj5erikhzO2INACrnCoIx/2xZGbVUjoE+fhDQkcmafEpFAEigIQhhy9ZsvezRv5/r5+uO2EP1ZuOBwyf27su/03C48qyamKKAc3AjAAoIqGlJeyjLoNZ82eXZmLpfsd8vA/kZePDlx8jJIZWnGUOlBBzGrjsoLbb2WL1zef212r5rli15Yo+linb/a/1H4afnCwO3KqqJADhH56M1lbKbrDy7tSOE1YQ1sZ+eTFGleF1AoVQ0RmZZTFnUW5Q8ahdbO2TviLyAZhcNzXSw==",
       "minHostVersion": 1
     },
     {
