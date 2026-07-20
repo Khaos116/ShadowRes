@@ -78,7 +78,7 @@
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-main_Debug_1.0.1_20260721_020231.apk",
       "sha256": "2dcda82cb181d40efe2aa1032579c37a0a287e23ca180390790e625af6773f74",
       "signature": "nd8qjIR4mO1bYyBdmK55aEUFHkkv6eJOFH22a0sQbDj5krF4uc5p7iRnZ63MFV9n7wWd/Qj6D1GrjE/Uk45m0AeaLkqo79xG615vgCQJW5Sz7CLIsVI51zYgzinRqenziFW4FkOcrGxo7WOUQs+uN/1s2n1lo3N0vyi6QG6TBvpsl3LhUQ8WBfPQ2E5Of246ecxa+hNl+kVFq7bVckfB7SfeuL6OtXFQGEE/U5ApJdf4g8nS8DzJb8/OfcprtukreNz5iScI437jf2RnqzAhS40f/Wu/ShGDDvaTp4mXkF3krdrvgby1FxuIihw3a+LJEbZinoh6XMEh91O00TZs7g==",
-      "minHostVersion": 1
+      "minHostVersion": 110
     },
     {
       "id": "rollingball",
@@ -110,7 +110,7 @@
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-mine_Debug_1.0.1_20260721_020035.apk",
       "sha256": "06b3ac90402e78ecb34249e33ea7dfd27f3194294792c54892f99dc158c6b7b2",
       "signature": "QSf10R4OZTERq8SnNraMLlLdY8wWe2YzKrLIGdVAYeCHkBzom0OeH5eXUnkucV9j8Vrp5OspF8OBEk8RywoEqUaSqqNvRMiTHYRMZNhUJkB+QPtAiK8pYcW12Qr49OhXZjMU7iXaaZWb4i2RuZIjeAFAQ/3QQjAdjknGADSVPioye2dFOYj2j7OuHSAECx8bKxOxb+XeXyeWh0DHVfh1Lu36ugkSg6k79DsgunMnr9iciWbRXkhBMZojyWv5EuGUWDGZNRv9VBDDQVDBHeEQ7WaCrxv+SQNMGLASWreMs6zG5Y9XpeD2KOYFwpYXJaU5JLghxkn+6rpX8fzoP9smdQ==",
-      "minHostVersion": 1
+      "minHostVersion": 110
     },
     {
       "id": "sports",
