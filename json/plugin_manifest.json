@@ -3,9 +3,9 @@
     {
       "id": "net",
       "version": "1.0.12",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-net_Debug_1.0.0_20260720_212622.apk",
-      "sha256": "55ebca55a4b98bb335172f3dc30a3ba731e4a599846686c9d88b20cc7d6a58af",
-      "signature": "y75R76tHNw1nRYlnMwjSlAGLbhVfzV2rXRXEt0NvG8r97GY2Qj4p22NwFuSwHNcbwUipqhnbdQVJip7mOdl4ZW/IP/RddWt2d92AabsTVjBSZCLVQ+Plo7bwoqMMFOEHNM/3dlLrBl0/znALsIjUPy9CJPLMU5gFjKQBV2T/yKVd24QlIFiM4c2S25KNMzZRyPo2EGmzi04zPfk6N+ORpY8RoGEBD91OdqTEYwKOGXQ4JMHev6dI0QesUUPvEvgdyWGkfsQA/1CJq6RTKMvevkybi19cf3yLJBJKfDwVA4K5hG6qFFz4DE+uLkH/0xsY4NxW45Qlfzp+i+L1Zg9uDw==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/lib-plugin-net_Debug_1.0.0_20260720_214024.apk",
+      "sha256": "4463a6a58b1a4f941438605f203c4f090aed45ecc816f8fe65f6e3723954ba6a",
+      "signature": "Ed8/KLUabIoFbQyX3wvgdiDiIt3h1WwoTuKhYkCRfXBJgakmsy/JFYxvRo7JHOjVYMpEtHtSHtNCZKS4EKeX/h3TEo668F8DEBNYEX52ixVmmGJBQdAW4chWRViC4Paj0iyODwb51saUmJ4adh76xDvPq9ELSExdwDep/f3oe23A17O17+hxFw8qqlDWWknzbky3uXqyOMF13NmsN27mY6ZXHffc196GIAO0p6WJh2z95DhscSEsomX3dE2GNyJCJ/UN0AhN8oDF9MQ3gt/bEWe1lyroHcxg/G/J16u2ljLgzjsrSFCPe8+sN020PCHMyahA1afi7Q8k8HpTMAU6IA==",
       "minHostVersion": 1
     },
     {
@@ -59,7 +59,7 @@
     {
       "id": "login",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-login_Debug_1.0.0_20260720_213547.apk",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/live2026-plugin-login_Debug_1.0.0_20260720_214023.apk",
       "sha256": "0ce61028c9799fb33171cfe887eb0fcd67b23fea29d0e485861d210fc202e745",
       "signature": "IQXWnHhxJzmKCDawHK5u/p2jouUUdLB7n3/p7S7vUjMwa7nivA+2ieU/3devAXUH54BZuAdfMrZdNhtOzZ/+E841ev8MvxQm7Pirj5lKSG05Bvv/KM+EDwuH4+282pDddEG4r8jUjxTGjAU4paIK7YYH2ld8lMTt3GmFDuCgXi6bbZfvbP1upqFtclJtEUILbVhfUsRzHVxCdia7tc75XRrHK5G9qqRzod/ZbHhiW31tEBkuGIYXPn0Cv/s8u6MNWKNnKMxBTUpjJD5K0iw+1P4qwfS7OTs/IhbmJm8u2EVcDzEbAVgw4QRvt+IAwdACvES2sOQmte+SSZM3bnLj6A==",
       "minHostVersion": 1
