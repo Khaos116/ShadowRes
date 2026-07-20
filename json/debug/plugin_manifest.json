@@ -58,11 +58,11 @@
     },
     {
       "id": "login",
-      "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-login_Debug_1.0.3_20260721_011203.apk",
-      "sha256": "c5d0aa8f2a443e652c2d22473f8c6220af61ff103d2fe58f0a8c5d732fccecef",
-      "signature": "WMi23RLryvwrp092X5YeJpaRLWn6DFAJjB1UdzICYCU7iLAxkY6F1UUsm2bLAzNTk4xR9Np6J1BkNgB9O+YZu6sgnMt5+ybr4ebya11GwwmopkItgmvMvMKrMFhB/m+pDnLA9l51BGGR/oXwcHL/1qFrKj2Koe7I+O3iWaSrPagpGtLkUJ6AnOndvjTPk0FksaUPP8xXW257Gw5WIRAVkocc/oE9svnCy2/pKVrUL1VFzhyvEJ2/QJgLlWMNnDAKGeq/hF3dst3/2ExK+9GA5QBoEp/tRsHW7OKwb3EuJ/E0VlkgFLND8f1OwKBZjx/weYcM9rXuMnwRpfg4nlJKmg==",
-      "minHostVersion": 101
+      "version": "1.0.4",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-login_Debug_1.0.4_20260721_020935.apk",
+      "sha256": "59c65cccf05452bebcb352dd229455054a2a96b05970ebdc9e5c73cfa3581d92",
+      "signature": "dmHuNqhuEtmhc/exjZCqEvZVHUpNB2PxrhTTmWpv69jDwLyhE4yfKwmkyYWiZteSx5gKDBzIVhHZAea33fGinJwtPhQco3F1ogFRfv/xabt4zrkhP19Pzn3VLCD5qdd7fzP1I2ozh+FeAoqSY61F/G+gmBTU2w3YjR+3rT45T8AOHJU0ZG9HeRoj8Hw8k0XpEFj063Lf32zgyFVKc245c9TlnCxZw0+gwQP7UtBvi9ZQPm5dACDFWg9YBBWfRaTt6Mv7tbTSwIHNYAEIfILeUdxgDEaZZkCmMU550huzODKX9GyIQqY2iUDPeaRyhWxF/SWpU6JZVMcCMFltMLxTvA==",
+      "minHostVersion": 111
     },
     {
       "id": "home",
@@ -74,11 +74,11 @@
     },
     {
       "id": "main",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-main_Debug_1.0.1_20260721_020231.apk",
-      "sha256": "2dcda82cb181d40efe2aa1032579c37a0a287e23ca180390790e625af6773f74",
-      "signature": "nd8qjIR4mO1bYyBdmK55aEUFHkkv6eJOFH22a0sQbDj5krF4uc5p7iRnZ63MFV9n7wWd/Qj6D1GrjE/Uk45m0AeaLkqo79xG615vgCQJW5Sz7CLIsVI51zYgzinRqenziFW4FkOcrGxo7WOUQs+uN/1s2n1lo3N0vyi6QG6TBvpsl3LhUQ8WBfPQ2E5Of246ecxa+hNl+kVFq7bVckfB7SfeuL6OtXFQGEE/U5ApJdf4g8nS8DzJb8/OfcprtukreNz5iScI437jf2RnqzAhS40f/Wu/ShGDDvaTp4mXkF3krdrvgby1FxuIihw3a+LJEbZinoh6XMEh91O00TZs7g==",
-      "minHostVersion": 110
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-main_Debug_1.0.2_20260721_020850.apk",
+      "sha256": "ad464e626ee094fe9abac42431a8dfdbaf8a6804dd8d91490d7201b7dae50c9c",
+      "signature": "ZE4xpX0HK3CQsC5S1P3MMnwuwUpX4eXLOQPhiYAZCPlXk2g2QjStbwIEktOpISAas60PECCH/oCKZf4dyjeh3mRJRByGn3f+FkNYWuE/RCe7W+5GrZ+DjN5lu/QvTP6dCFQOz8dR43z10mqLNqPtfHQjLetiWH3f9DXuB/hLpK/RsNCDCazzBJJBo+d+1Ih7cMX7qssTSX1rf8d3SgSqL/F+BIJ3h08l0N5SrlZokME5QWkIcZOioGzfL7RK3MmH2fVJXykRXQxadS3bThcwOOASW7IzKBW1z27e1xdvZjL/TrSlBZQkKB/U8O1ziIKU5g+OeWFW4S4syE3x7lGCMQ==",
+      "minHostVersion": 111
     },
     {
       "id": "rollingball",
@@ -106,11 +106,11 @@
     },
     {
       "id": "mine",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-mine_Debug_1.0.1_20260721_020035.apk",
-      "sha256": "06b3ac90402e78ecb34249e33ea7dfd27f3194294792c54892f99dc158c6b7b2",
-      "signature": "QSf10R4OZTERq8SnNraMLlLdY8wWe2YzKrLIGdVAYeCHkBzom0OeH5eXUnkucV9j8Vrp5OspF8OBEk8RywoEqUaSqqNvRMiTHYRMZNhUJkB+QPtAiK8pYcW12Qr49OhXZjMU7iXaaZWb4i2RuZIjeAFAQ/3QQjAdjknGADSVPioye2dFOYj2j7OuHSAECx8bKxOxb+XeXyeWh0DHVfh1Lu36ugkSg6k79DsgunMnr9iciWbRXkhBMZojyWv5EuGUWDGZNRv9VBDDQVDBHeEQ7WaCrxv+SQNMGLASWreMs6zG5Y9XpeD2KOYFwpYXJaU5JLghxkn+6rpX8fzoP9smdQ==",
-      "minHostVersion": 110
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-mine_Debug_1.0.2_20260721_020926.apk",
+      "sha256": "9b652101cb0679fe8a0ef0d4ae785eb802518ec976b4700cf74f2b35ca3c0a97",
+      "signature": "hBEvm1MQ7ACpLJxqafB8tQUHN7xVE/zc7qDLIhwB6Jdm/uJqT1WBs8ZVfz8HazNi1pilUiV0VsmL0Klnxp5LbltQuEar94fS0+8/uaRc/638FqwbEyY0UIl1eUIxzx7vhX10TfcONGId8Q0SorqM2WUMeHS4UcDxW20eH2SzZkViVgd3fPLbpCkrEM+YxT0c6XGTHcHHU2Ag8LT67AfoeBwNrXTO8uiZObOFLmAJF9GfUKWovqP8MmJ1lEz4wqRZLdSPqiKk1V5pob6EwW0FnQDQQtdiD0SDjZxxSmCv2zStZoCMzRjZaPzkNteoEn1sM6h9bqXIyzrnqIdt0r6hqQ==",
+      "minHostVersion": 111
     },
     {
       "id": "sports",
