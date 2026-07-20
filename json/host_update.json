@@ -1,8 +1,8 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.2",
-  "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/app_Debug_1.0.2_20260721_001531.apk",
-  "sha256": "14ac9e2c03cca2b0d07ce97ec6d9d839d76429be7c098b5bb54d7bcc9af22778",
-  "sizeBytes": 8139811,
-  "fileName": "app_Debug_1.0.2_20260721_001531.apk"
+  "versionCode": 103,
+  "versionName": "1.0.3",
+  "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/app_Debug_1.0.3_20260721_003331.apk",
+  "sha256": "8fd917900b04cd0eccc9477eca9f4843c4d6f84245b23e5d302cb0b8d4f7dc51",
+  "sizeBytes": 8139959,
+  "fileName": "app_Debug_1.0.3_20260721_003331.apk"
 }
