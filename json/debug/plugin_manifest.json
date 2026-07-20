@@ -18,11 +18,11 @@
     },
     {
       "id": "webspike",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-webspike_Debug_1.0.1_20260721_005153.apk",
-      "sha256": "ffa8c084064a82c26fa4599f7cdf6f20af8fa15db9d4ece2613026ff0e709adc",
-      "signature": "ZjnmHMUTVRFIgruNQdJ8zuaVqNgHGpOehdIt/HW84pnm6J3y97Es/Zo4qoxAfONSgbNoAM+5AHylv/tpbQGBQcf3n0o/JNF7nZVpXSpTRhQ0eohEreuipB46rdtoW2En0RLFTKxRveeD+s3XjMLD9onVHuGluBhI9YgVZPFiszWfWuxNDm5n+sJ0GAQxfRCS1+PHnCgWpPvogL0YY202osmb1ApM363BC/0iC5dT41gk7dGvYp6ZXFvRIa96IrXVRm2c2TPAHnuToAjNNHffq1Eq7Msu7p0wScpBKR7utaBse65Jv6eEvueE8sdC6qJb1Zy6p6SnID9BKv7vkQfSLw==",
-      "minHostVersion": 1
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-webspike_Debug_1.0.2_20260721_005518.apk",
+      "sha256": "b54a7a6eb8bd84da4479f95fb68bdca16d904a29f534d7c5a5bfb84dc1eaeea2",
+      "signature": "ZEIbW4D4EmlMWTVcMnbeMGkORkAE/06e9oN9wbH5YTogMvmCzHlLwfGhQQEkjfTBibRNfDQ0zofKj13unvFxsVV5Zdew2Tqdl4NaEMcw+CRMf6Y0kBcOjtcg3EeEe87bDlyM1BTrBX9DxqsKYU//XFaQ8n5mXjlvasiTm2V+ctmR0un32gh3VN9KidYFPDOuK+FxEKHf3ijuQlsyXhfPSBQk/T6YHrp0oX2vfqaCQfcYIek+k/GNBNEVXTxSAaG+1XVXSV38nbzgFUVpP/PGx6cnZ+dZmQIvHxCOi3g3PseDUkA0DJXXGyiFvqyz9XLyoqIVJK6g5fwIGhdlqO8kEA==",
+      "minHostVersion": 105
     },
     {
       "id": "web",
