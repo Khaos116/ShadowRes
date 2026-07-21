@@ -10,10 +10,10 @@
     },
     {
       "id": "splash",
-      "version": "1.0.6",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-splash_Debug_1.0.6_20260721_171005.apk",
-      "sha256": "c776b6c1e40ed04286e0730f00340529a3da7a6df74dc3d1afcf7ee0b16ea6c9",
-      "signature": "w3z2z8rOVLxVNFyReuP8QSc5rmRkDph9s9sg6Pnzdr+4KMKXEtdMc/hyUKS8of/XbvvdTdWM5Xrd46Au0Vn2jJse6aI/emNNn3MiErCYMFXZppoNgbNkqlJBzBruFJw7Ry1jmALwQDrL2c5U2QnvUkUWvXKB+f5v/95IOGnUdVbPB4RLlAamrwDr0+iux478JWSsDoOoAppDAF7CZvu5ghaxrEBwa8ydVIWk8OTUizVFXUm4s94R9Mh1zqlamR/bmErwuWz+wV31KuYXaUAQSppdUi4FrnbhOJUUjLShvB2nKrB40OV4A2g/Ob1oIA/Yp7L6MIdyKZyJwlf9Yic3Fg==",
+      "version": "1.0.7",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-splash_Debug_1.0.7_20260721_172327.apk",
+      "sha256": "63f8af8e7d79b0022f7c3ff372120395c2c4fdfcaa18be1163db1f2b5b938a9f",
+      "signature": "Zo4m5V8tXyKUoR8WBI6IITu3FQjloYptaR3ir0oTxJ/Gs/W4Mu2NujaBvm1iJStc/8v570BVnUoZPZbQCLA+KA18gKLRDsTmtqWp2m8wFx58/hqEuZaRHotrkvz86mO8K4k4kOIoKQKz5t+776ekAcRGYUbURmQdQmD0FLTjL2aGixxZfARRW0S6zR53ZWHEmG9yALRbw4N/MJVcWUPXze1jas7Lt5PWNyfQbcBhdZvILQCFSmLJunMClQieZ8hCtGIvlXo48PUvgnS1caLEmJZ3DDa6ymjzexbblhVuCAra9XBYTX3z8t9HjOwhooD13jdOaPL1m22uiViOJD3e9w==",
       "minHostVersion": 127
     },
     {
