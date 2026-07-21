@@ -162,10 +162,10 @@
     },
     {
       "id": "captcha",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-captcha_Debug_1.0.0_20260721_091516.apk",
-      "sha256": "d4d2c7799caec2aca978f55484ab4afb79b16a9e08ed9fb5950496131f0ff0c6",
-      "signature": "WCJ7V7CvhNu0CBiR2C9159dEf/9Vuig/+xKkQW/jZsvSiMtGN/JrfOI82ISoch2n3DnhushP3yb2DvLXo+8tKqj1Bib106OCMEdY2Cm98F6s8xKDRvQ6N6QVvFnmntd1xhY3ZnjbgXwEnCW+B3hg28sWwDMFZpSsaIzqSkjkv61eCJf67P3bIZVVssObM8S81A1O2eCc4cNtpY8hT8x8AKvW9RNgW8ubFjKWguhMEZZS8HWgknjXICixB3r4iei2pIKquRF3iRb/smf/dFmZ8ArZIuNKrF2hTAvG0eLxJR9dctcE3N0R19CawbRrUF2cwJWNeFlas89q9+tfArrn8A==",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-captcha_Debug_1.0.1_20260721_100820.apk",
+      "sha256": "f60da69432722a0a20f38d9d10c21e0993fd8e89e2e22733a9eed7a788e956ea",
+      "signature": "XYHdpVMAVc1MtqNo3QgpO4UwcqTsk9KdsKRkVJV8TxhRibJ1UbG8/BqJafOx06AvAEStCK9TwpQDTsbwubs2Yx6R1C9g3/+V9Rmm7OGX6/Fz59Wma9lP6ZBplY13/+rAZxNC57BfyFAY4WI/SaSN7DxrFtw0NHz6nbGlOEkZYZu/3UNiLvVpRAE1eqSyV8+CyLcynIErSZAZfkf3YFvx9oIHo/95DvHYbYBvA944I4ndE3hpfgAZa4lln91hLjYWuLoJ1QqtULOdS7StZV+2jJw4sUB3OmayNH/hI3JdEAKxZcX8xw2+qVDDJYRsSA1LCw8GNq1tDKmGqatkk1a9Rw==",
       "minHostVersion": 119
     }
   ]
