@@ -159,6 +159,38 @@
                         "sha256":  "ada914739bee720294cbb5612230a6e43992b836d1c873b1c7d0d6b73a79917f",
                         "signature":  "dY09kUhIfW9zS9IaptgBVGIRCOX/EGjXAL3ab/jMBxdXK3RcK+ZCqrEO1Vas9I7wVsSI/PXIzw74cFZ1JCoutlg5E0A+ITtBxRrJjIAIdvsM1MNHm3veL2Im7o+sqlqljuG9Zn+j3lP9SchwSGEL/8DrhbDbd3tg4ahHJVkwh7zj4JzDss518px3fDYhqXUm6GRWWPL9asAnVUMPpMsyXpS8BqfhRGc6T5Q73WvjBF/QZXOGpR8eWAxijW3aEd2M1Sum2soZ8PoNXjRY949r+i26Ll2swh8OGcMgHbZFtzFGEz+V7wk5n4btO60dnwQlgaU4jel172VndQ80VDTy/A==",
                         "minHostVersion":  118
+                    },
+                    {
+                        "id":  "history",
+                        "version":  "1.0.0",
+                        "url":  "",
+                        "sha256":  "",
+                        "signature":  "",
+                        "minHostVersion":  1
+                    },
+                    {
+                        "id":  "transaction",
+                        "version":  "1.0.0",
+                        "url":  "",
+                        "sha256":  "",
+                        "signature":  "",
+                        "minHostVersion":  1
+                    },
+                    {
+                        "id":  "ticket",
+                        "version":  "1.0.0",
+                        "url":  "",
+                        "sha256":  "",
+                        "signature":  "",
+                        "minHostVersion":  1
+                    },
+                    {
+                        "id":  "wallet",
+                        "version":  "1.0.0",
+                        "url":  "",
+                        "sha256":  "",
+                        "signature":  "",
+                        "minHostVersion":  1
                     }
                 ]
 }
