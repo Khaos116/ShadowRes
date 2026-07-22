@@ -2,11 +2,11 @@
   "plugins": [
     {
       "id": "net",
-      "version": "1.0.4",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-net_Debug_1.0.4_20260723_013620.apk",
-      "sha256": "7b93e39631751627a38c76b75d105b7130afa291bc78d322bcb8983ec0e51f85",
-      "signature": "I5aMuX8wQmDbJhHwb0fKIdb2dyjqi4otOjlqEQ93K9m4s0EI/Do/hbseXn1f94y1oa8XAm1pRM4iGTfOLhed+iAsAByStf1CWtQdaZho7eH93OqY82uiwjkElzRzyksbhXDMhPZSL51hVFSLDKjW9p05CWdraxef7qBveAyNNYenMWMCag4N2yeBrDUww5SMHTQGxobLhvbnBAqCZTi8arhqTViAdKxcyrsu+ufbKRIWJo8EWO1ryYjjfGYMht+sTSrhAndsRHb45NkwYBJBxJd/94BkNCKS1SZoudOL2JeXI1m4DRSbbbashtwUaMjLWy5XYURfYegdKDpbyYIoAA==",
-      "minHostVersion": 150
+      "version": "1.0.5",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-net_Debug_1.0.5_20260723_024322.apk",
+      "sha256": "b0054bb6ca31156a7f8120d55f22b749dbcb914e5649bebe6fc7a63f9741338d",
+      "signature": "BmilHV0juJdOjk/Et3g5hMFnGlb1fzaNpE6PgMJkrbxsLS8UjpHCJzGsE2WqrJZyyZ4R6hpJFnqt39K+w1r/BsoJnMOsTTZ9/Ei5gNfNcrXf1Hqq+tD+omQ/A1kgDyfBgvzsziSId+/RhNyKK8A/sp9LEz3x5eJmUIz2XbVgAwozDXxxyXFlocbnh6M4g24Ax1xMtSvIxXHfj3IUE6u0DLVoWw3dxG2KzOmi3fMOVaGjzluwQI7Jvy00c+dSycebI+laN4TJg1fFevWsM/zPSQ00zt3FjLIaOwpbltJH4TKSdbqoOLfccR0x6JNnwWOX4W3lB0BJXAMqnQ4bCQdM4A==",
+      "minHostVersion": 151
     },
     {
       "id": "splash",
@@ -34,11 +34,11 @@
     },
     {
       "id": "ui",
-      "version": "1.0.19",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-ui_Debug_1.0.19_20260723_021852.apk",
-      "sha256": "6c6256b71505e6316e147f3e0875cd8091174ca694ac534092ab7feea800be7c",
-      "signature": "fSDBTBy5d2ZPOCQ7oOf4OjV0uiiVA0stBiTXrgaoj8AlVMqxpwAwZRoj0HkO+E2KxhRacE77aac/JIPgO/mWDH8dSR4zrP4BBbeX+yURedp7qNzWxxCDXXEZwEgKfW/YgCP3jVvrg9GGxW9+TNEERYWPCCKZnMv52+qLk2RG0w99Si+m6P92Y6P1FRjsEFlLc7ipAWvsodKMqUJgG/Mhw4usjQjmplJmOOs+LT5K1P7qVoTW+1UUIdwxnXn/hf30yyaQzEn8ekRut0n2dS13LkxPs3x6srG6xTpVNF7030Ejmvv8K0/Mmf1bhe8hsFat9ZNk424ucClqcYxmLRZ+zA==",
-      "minHostVersion": 150
+      "version": "1.0.20",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-ui_Debug_1.0.20_20260723_024422.apk",
+      "sha256": "d386d6f8f605c7c102783a3a88ce91866687a9a6969a0c196320e8e89773f8fb",
+      "signature": "0r2B71LLzE1kbRwoiTnYWu+Zsz59OffDRswcd8nCXSCUDYFEaLDknrs8RH+B7HBE6Dz8HTRJ7c+7RqI45OV6jK1R703mNG2lalvFi8i3neuTRpFzzWSTr8wZElf6B5O7Bl6f9mwGPCiQEArwvpTT+6xT2LtzKJ+ahWS4JZ+n4es86dPQwX3YFBSpVvPAOnB7FemKCeXTioR/KoIyG5LwQz5dfRK6Ej3kd02uKdf7aPk1H2i1D761BPz7NVE4VdxGBYqKj6KlqqQrtqMtU9+g1Pz3UI02DGOX7umLqyUkmkR0rs9AQnprjuUBfgS3pBRkNFTD5cvSK1oFNGS9oqNZ4w==",
+      "minHostVersion": 151
     },
     {
       "id": "log",
@@ -106,11 +106,11 @@
     },
     {
       "id": "discover",
-      "version": "1.0.11",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-discover_Debug_1.0.11_20260723_021521.apk",
-      "sha256": "406ecd3f8bbf290a69932465fc0bb3edd8be501213fd30a8d3680a01862eb321",
-      "signature": "aXyiB/AR0kSSGMdo6tjUQUqCmevJOZ7ND6d2nQMb1SSlwiXnfPDUz9LEkFnaJWt0C/iz2yzd9lO+sqETb37NwRs6HrDWFC42hw5jm7gGOUvAw4U+x49YVR3gmosMhqFFc0FDsGv9MBwOUix9lP0wq66YfpvIfC380oSLXvt3tnIyMjjtjtKV9zXW078d0R26whDW2p+ZDkvLPPZkzdxvSsmO9qZJ1u6UQM5wX3duww9UKrteqkH+ln2OIHOAyB3emGoGvL4KDvnuomr7E8D/7UyF0zO44so7w0kyIMOS7y7502EG3YoMyqE6l25tcslgh6uBY2PvA3TePFuvChHtlQ==",
-      "minHostVersion": 145
+      "version": "1.0.12",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-discover_Debug_1.0.12_20260723_024322.apk",
+      "sha256": "3b6da406559f04b004859d0eed353d269ed0ba9ed05f5be07a090ffa7effe42d",
+      "signature": "cXkk835kdjCTdm3n6hDn6OIYKI6PLK3gWK2ZWpWVL7BdZri/sHGf4gToER2JSH3QE02dNM+Z33+YFdpYjAbAF3K3H/xcIe/Zp9dODZQ/Wi11MDQWatPHYvsm3lLMsMwsmceKnJqX8VnntlzpMMUM+buE4SM1YS5au3hhzd5CEYuVR6K3qt6HDCVr6z9SIDMUfQLl2832ejjNAzRNIQmxu5XeMyyPZ3P1JokMEhpYFi2UpuJ9r/sM+LUzmJSW4F2+ohdRQytRqdn9zVztZUNlygYPVtN8fCimWdj6Z2/tU6sq3dvFngwCCnhXuAPei91jmgWdy4XEx76MGU1laG6zzg==",
+      "minHostVersion": 151
     },
     {
       "id": "captcha",
