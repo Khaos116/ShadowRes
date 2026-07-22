@@ -47,6 +47,14 @@
       "sha256": "",
       "signature": "",
       "minHostVersion": 1
+    },
+    {
+      "id": "mine",
+      "version": "1.0.7",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/uat/live2026-plugin-mine_Uat_1.0.7_20260723_003051.apk",
+      "sha256": "7abb59a271d1eadc3524fd2cb6c8727aee8d0579ffd9ce25afce7efc4198cb8d",
+      "signature": "JEkO0WAYaB4rCwIWplbA7EgfPVSH7fdOkx9aIM3hEx75J7B5maU6FarWRM8Lmi0Td5/I9mpxLjF8iFa5gRMNp+KBkGQffYsmhaOxG2M1zpxdgDDTh0OF3bOmEM3pAFJIi+xc31cCQN/Uec1btR9j0GWg+7VPC++lQvYJdZ1zoocyPbk0Dx4ibD7hFV1UUrhA3CZBTk3s3vHoYjOaXNwzZaKNXgnq99P1nJEc+DBh3mOseDlYHSkFKrD2KQf+XMpUvdDU1Z2uvVBrpbf0lpPbQZO0qILDafsUWfoTagox47OZxR3tM67QDpCWu2iM+JPkgWt4rSogljeISMrGTVsSYQ==",
+      "minHostVersion": 1
     }
   ]
 }
