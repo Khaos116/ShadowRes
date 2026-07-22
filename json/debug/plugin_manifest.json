@@ -6,7 +6,7 @@
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-net_Debug_1.0.4_20260723_013620.apk",
       "sha256": "7b93e39631751627a38c76b75d105b7130afa291bc78d322bcb8983ec0e51f85",
       "signature": "I5aMuX8wQmDbJhHwb0fKIdb2dyjqi4otOjlqEQ93K9m4s0EI/Do/hbseXn1f94y1oa8XAm1pRM4iGTfOLhed+iAsAByStf1CWtQdaZho7eH93OqY82uiwjkElzRzyksbhXDMhPZSL51hVFSLDKjW9p05CWdraxef7qBveAyNNYenMWMCag4N2yeBrDUww5SMHTQGxobLhvbnBAqCZTi8arhqTViAdKxcyrsu+ufbKRIWJo8EWO1ryYjjfGYMht+sTSrhAndsRHb45NkwYBJBxJd/94BkNCKS1SZoudOL2JeXI1m4DRSbbbashtwUaMjLWy5XYURfYegdKDpbyYIoAA==",
-      "minHostVersion": 149
+      "minHostVersion": 150
     },
     {
       "id": "splash",
@@ -86,7 +86,7 @@
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-mine_Debug_1.0.8_20260723_013620.apk",
       "sha256": "d349cdf34b6b1283fe9a5ecaa560aa49b60c2179427e31d467b615dc1c9eebf1",
       "signature": "rB99rr1gJZRNzvprOMjROaHO1qSvKbEBtB2yZZslFgbii1NrVmYdCDwdDhHD57CFfDrL1LJ687UQ9PAhFkdG2c/n9k/dEdifsqaL8JJcNVUllN/LXu/fVlnMTa5bptv53/gFfwcJQtkqn660dQuL/8Iimn5eyUjGEnVzqDktcz1dLKt74ee06rb5e+OOD15gXR7gCOa3o8M2DhreOcPALxwqtQOe7cu2ch7I3Nv2/XWw88QFbuTa8suIDnhPznNtArAhF14ACOKBM9NdLEV4gOhlKj5L+IeEOZfmXFh2WaO3oVr/ursu6TRQlubxEiHFWmkAzr3eM3nkSfMWzxQrOg==",
-      "minHostVersion": 149
+      "minHostVersion": 150
     },
     {
       "id": "live",
@@ -182,7 +182,7 @@
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-wallet_Debug_1.0.2_20260723_013620.apk",
       "sha256": "19f909505f533b77d2e1a796f05cbf5b3f9a39a38f37023161a2ce33ba0d2ba1",
       "signature": "hTwIJNtGxYOW49JC/34b4u2P4DCpcLjNMWriz7GS9kFHxLXQTcpOCGp3Bm7MNHwWJdYWvZyuWatr5YtvkjZMm6/iqxkTf9xsIBnAky89bh3PgIJOBAiN6BJs5uxalOIDQkZhVk4/eCQ42AD84l2HVx8reAcKuSDpAmYnRn7PGu20OIP7fBPYrMe15yJ3clpXnWY7IrCApOPjc2unpDolINCKXh2p4yCybYmS5g8yCZCo5PWzzm/75qYkj/fq7uxgvIPKDp4zGzxCFQGi5HEp9GVdvDEjXCR6KTGcvMSDgHbq3n1XqafresscTc1++EpZhSeA501O4m6zlFUB1jwkJA==",
-      "minHostVersion": 149
+      "minHostVersion": 150
     },
     {
       "id": "webgame",
