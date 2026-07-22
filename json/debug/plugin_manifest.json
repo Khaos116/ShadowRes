@@ -11,9 +11,9 @@
     {
       "id": "splash",
       "version": "1.0.9",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-splash_Debug_1.0.9_20260722_154539.apk",
-      "sha256": "8dd2bd452edb493b07a2e544f0e9a32c54581c9e2229a531fb28d7e61906b753",
-      "signature": "PKalxZfrVRuiVQe5bB1dOFOhm6RjeaIA184wmZ8UDlYHis2Ekb44YUHhKYdfSJTnyClujhwhOUbfqctYDr86mVJN/VkDAbFFFbLmd8P5gdr/yVsUhB5wZpyqm9klqOMG5vhcFTY8Xr+0E13K+NEt3tP/dA2CrvZJeUlDEB6BznZyTItc1ZCB4yz0iguR90gtaS+hBNx6bJ48q4VZkE/iJ4hn+RelodfklypGHbGWK0ju31ax8NzIXUc1iwsnDVv+hnkefhnNtXovvRE3VlZuivqJECzEChPrIZ7lr+h42k8osQR/L3cANoEUFABq/hlWxTqT8f2yOKvHvgHzSbGdjQ==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-splash_Debug_1.0.9_20260722_162148.apk",
+      "sha256": "c19c27d248493c6c6a6f676a218fd474a01ee53ddc77bd97258ce4726de87345",
+      "signature": "VO1+S93zUzwLyMoZAF3fxnQ+H5cFNPl66oKiOQ2R7sv39dDMnHHsJF1LP5RY0+gcRFuxeg2cpH8cpdC+idmSS9PK+XOIm4KMPlChr/P1nlgf2NCOsPGeD/SPgGe7OFn44WosFjMAbt9PCGLUVQyieFZiMjUedwu5ygomq3ilQkIQjwMD/9D9zHLcGW7T6XsFuyxEc+hJXaH04mFGzL2z4a5S/4y4J51Q+elIopFqtQg452IeoI+6JfOWoq39WsFLbP8hYGLb9I10IrpEHxNQUNdbOlQK55T41vFqXJS9R0aGr60+YW6LTN7Jtd3V/dHnSHDP7IVPzrBWPsu1ZmBq2Q==",
       "minHostVersion": 145
     },
     {
@@ -59,9 +59,9 @@
     {
       "id": "main",
       "version": "1.0.13",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-main_Debug_1.0.13_20260722_131037.apk",
-      "sha256": "9291c33eb2b772a1e7d8575996ba1498a728e64612c91e5742b02f33c593a8ec",
-      "signature": "IJwEBqghAAOGaqw1T484plCLK0iX/bGia0sZ0ePDhbUYJOm7yEY36Gbd1Ld63I4F1asRnj5jFK7SELk9RM4/C7u/ilV1jAxGKC0ZaawiGiH7i4JAWpbLA6BVI9wmGdPL7qUg74bdVYblMF8ZhgcNp7qn1Tnho8LzXNdhf8Pn6aBgB9VSyZhPT5mV1/plPF0AOSTr5ZM4MEGj6pZ2KXrp3JbUfhjZqDlEt7sqwF6RjglbB1hGthVNp0035HInThUS3H3htmklQQQ4IzgkGV11YT9sulvk4ensuIetloswwDNAkAlHRUbZTSZDxWP3LT+GCu4AMk1+HNMTZQ67ESNifw==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-main_Debug_1.0.13_20260722_162148.apk",
+      "sha256": "4b1df445da14019f2542ac24e5edd33942ffc3658c03233427f3ebcef5b626dd",
+      "signature": "rAbto42Ksz6gATA7fV/gR6yZugtGkhkdT8AB75BHs1twFBrPi6+jsVk/w6GP6AVdh+iiG4GedFLDgUDSwmfkGkM5jaMXKY4ElIrUpubFouxsa0po/du7xdYPh/+D646rAPBW2FodTXigpRGg1SurarG5mlhWgNQ1rLuBkUGwpyBAacZy21YYW5lBvt5aGmketoDO5Pwgl6VrZ5tyfTJIgfo0gOS1YfGrKalrFjEGzosGDa/obxXWT5LYjrIVCy+cztMRvMCZwj6ekSkmnxq9/anukKZ3RMi26SEEnJrW0l5uK1rMv/2wDWeSoSDGU3TfY5GcbgoL35aghcO05MAnDg==",
       "minHostVersion": 145
     },
     {
