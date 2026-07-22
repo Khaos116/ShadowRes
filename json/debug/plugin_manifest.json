@@ -11,9 +11,9 @@
     {
       "id": "splash",
       "version": "1.0.9",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-splash_Debug_1.0.9_20260722_152718.apk",
-      "sha256": "3999853ed9fb140d6de0b7b06615c47eb10256610075ff53648d1416d4083aae",
-      "signature": "Cc/EsXW4ngvMjy7vOc5LpT6j4OvSSzPQzPt2hMYVqse8Di4s5AUPTsscwqMj/emrN7X5BQCqjO1xESugRgS5IGH1bWmb/rnMT2ae53v/qUdtPspImtUV3JApO4ciyZ/S9q/Yx3FbNMAaO0Jhhg8SGdNGEIsSv0Sj1puEW9azuRCfExSB09f24kXVQkdaYmr1276kFvOBW4FmwtmvOYoRbXZ7i2/nMk50ZBt0OJhUJesECS3YVXr6huDAw58YnSYF0ervxisqbyslSQI2GSe4HNURjgkbf2TViwEmQQ+wb0JAmUVcrd/0j5GdMTPfldRPVyRwxrA5rj0wlkxdtTLn+g==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-splash_Debug_1.0.9_20260722_154539.apk",
+      "sha256": "8dd2bd452edb493b07a2e544f0e9a32c54581c9e2229a531fb28d7e61906b753",
+      "signature": "PKalxZfrVRuiVQe5bB1dOFOhm6RjeaIA184wmZ8UDlYHis2Ekb44YUHhKYdfSJTnyClujhwhOUbfqctYDr86mVJN/VkDAbFFFbLmd8P5gdr/yVsUhB5wZpyqm9klqOMG5vhcFTY8Xr+0E13K+NEt3tP/dA2CrvZJeUlDEB6BznZyTItc1ZCB4yz0iguR90gtaS+hBNx6bJ48q4VZkE/iJ4hn+RelodfklypGHbGWK0ju31ax8NzIXUc1iwsnDVv+hnkefhnNtXovvRE3VlZuivqJECzEChPrIZ7lr+h42k8osQR/L3cANoEUFABq/hlWxTqT8f2yOKvHvgHzSbGdjQ==",
       "minHostVersion": 145
     },
     {
@@ -43,9 +43,9 @@
     {
       "id": "log",
       "version": "1.0.5",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-log_Debug_1.0.5_20260722_131023.apk",
-      "sha256": "0de9770969dae649f8f052fb3d4fe28ddbc1004a4a57f1e1bacf168c433a5acb",
-      "signature": "E7guana9fpudtbb3SDJBb010vP2PqeYZJMkYlqEWVB2Q+nSexXckSXaOk9AYbyDwsrdstz9hmIc8OyTMY0HxVgMl/ZA3ybIWI5DlwkjosEB7RKCaENg9GuhEXxD6gBk+aqf3njjgnCLauwH7QKpcueevQszIeylMlWqItxJo4WdnviKtzAhZBtcBkPcf9hbPN5nQ2k0vATqF9RffokdSG8coFZ42RBayWfyzBc3pbQTjTfFp1uygdxMA0vhH7R26bKCMCVJXwzuUxiubR2yMW2XOtlAMvOkOq1QwkqIlBEamwF+ZZMZOIDf8+6jX7rkzsJRd8+tYDLpNlRwF3jCAYA==",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-log_Debug_1.0.5_20260722_154539.apk",
+      "sha256": "047d78712a92a7e91a9b84090e6b3444203cbf63ed61eb242e7f16245332f266",
+      "signature": "OKxv3f6k4E4dFA/qSa/wS05ncMQCnuk5Jy8McD9mozcHPQ61Q8vDHxFZ+LeQM8EfIkImAYJdQzDHDXKthO0x/uX3cgh8/GlURmpbjCcOSEkK6lc/BnioD72ybvBrhY+QlG4XJ1jRbZ3GbyKdY2cI/2eAIUGg36ueTvkFgTtZ3+ZanGDoyS6SaIUcdInUwORV3DavEdsd5jpaAYE7PRxIgtYUKdHeMMaJ8bqDSBDezV7sveN/ydhZjJH131Bv/ztBzfPCaPe3CXVcR+F4Wp2TGTmd1r5hj/+mr9RPvn1tsWZdrfP+WHlSn4c2fUzW6xLa0Gl0b1P546O6BI++nQvErA==",
       "minHostVersion": 145
     },
     {
