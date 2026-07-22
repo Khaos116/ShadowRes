@@ -34,10 +34,10 @@
     },
     {
       "id": "ui",
-      "version": "1.0.18",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-ui_Debug_1.0.18_20260723_020529.apk",
-      "sha256": "04976a95a20861691557b100daaa9f5a43a007215dfa52b21b510d5aabdc7b19",
-      "signature": "dj6y4tQVd9pGfg7Z9Th4WeqEagD9JS1Nq661Zh2/T7alMxrLyIPDjZ9a6gbGmQMiKVCm37eD9yvr622vtl4+L9MsfQ9ksEkQI44WLGBxJhEiauaUHW6Iw4v99WOWiGuOzVAfLQ3PJUFkSu4cb8yVDjUnx7sR3U/amtP9VmMz12W3VoV1U8F95PqvUuHifUb8tL3HPsDVPMrq+LpzSQGEOtd1BXacA96BP1L248wQaW8JKuV0x89ZYn6l1m6NrKPIot1R8Cg3T45ljQkZGitTmyEPd+6sXgfJ6IiE2PtFq81Y9mbOVgHK/Wh4czPU4XkVI0K03VAeo+KAaIk+14qwQw==",
+      "version": "1.0.19",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/lib-plugin-ui_Debug_1.0.19_20260723_021852.apk",
+      "sha256": "6c6256b71505e6316e147f3e0875cd8091174ca694ac534092ab7feea800be7c",
+      "signature": "fSDBTBy5d2ZPOCQ7oOf4OjV0uiiVA0stBiTXrgaoj8AlVMqxpwAwZRoj0HkO+E2KxhRacE77aac/JIPgO/mWDH8dSR4zrP4BBbeX+yURedp7qNzWxxCDXXEZwEgKfW/YgCP3jVvrg9GGxW9+TNEERYWPCCKZnMv52+qLk2RG0w99Si+m6P92Y6P1FRjsEFlLc7ipAWvsodKMqUJgG/Mhw4usjQjmplJmOOs+LT5K1P7qVoTW+1UUIdwxnXn/hf30yyaQzEn8ekRut0n2dS13LkxPs3x6srG6xTpVNF7030Ejmvv8K0/Mmf1bhe8hsFat9ZNk424ucClqcYxmLRZ+zA==",
       "minHostVersion": 150
     },
     {
