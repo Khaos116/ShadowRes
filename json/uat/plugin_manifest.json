@@ -1,14 +1,6 @@
 {
   "plugins": [
     {
-      "id": "webspike",
-      "version": "1.0.2",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/uat/live2026-plugin-webspike_Uat_1.0.2_20260721_005518.apk",
-      "sha256": "7d989271a78ae90bd04569ec84800ef98098cbfa1fa66aec95e5f6a4f7d34b17",
-      "signature": "ENhBJb11hCxveAYysGNLvcTm6CLbcD2Oq+w5mvl8EbV2IhR5r9wq88IcNtq8GolbdoDo000BWUSr1l4NI2jQx0Z3uFQaBenDxQHMKXzUdWLwdBPHs8mmo/cZlpp+NXtPHRmEgW9WYhD5QF6EA29PScEi2TdmLxuHotu6Q76heSG5tYXa7bKBqbKVAy0D89ARN+iBWwbddf2PLeg8RXXeSYrVqDasPHFAoOwXSMMF6BrCsIz2cG3teIN3sNKHiGhjD0WtLrBpjCYbH8dpBHUkos/wNZJrhaAtxFLfMVvxpP5KlvuYggD4F64bS7c2akxhj1zi23r4z4gVab6SZ9sOKg==",
-      "minHostVersion": 105
-    },
-    {
       "id": "login",
       "version": "1.0.3",
       "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/uat/live2026-plugin-login_Uat_1.0.3_20260721_011203.apk",
