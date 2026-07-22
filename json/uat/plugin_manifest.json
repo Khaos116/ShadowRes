@@ -55,6 +55,14 @@
       "sha256": "7abb59a271d1eadc3524fd2cb6c8727aee8d0579ffd9ce25afce7efc4198cb8d",
       "signature": "JEkO0WAYaB4rCwIWplbA7EgfPVSH7fdOkx9aIM3hEx75J7B5maU6FarWRM8Lmi0Td5/I9mpxLjF8iFa5gRMNp+KBkGQffYsmhaOxG2M1zpxdgDDTh0OF3bOmEM3pAFJIi+xc31cCQN/Uec1btR9j0GWg+7VPC++lQvYJdZ1zoocyPbk0Dx4ibD7hFV1UUrhA3CZBTk3s3vHoYjOaXNwzZaKNXgnq99P1nJEc+DBh3mOseDlYHSkFKrD2KQf+XMpUvdDU1Z2uvVBrpbf0lpPbQZO0qILDafsUWfoTagox47OZxR3tM67QDpCWu2iM+JPkgWt4rSogljeISMrGTVsSYQ==",
       "minHostVersion": 1
+    },
+    {
+      "id": "common",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/uat/lib-plugin-common_Uat_1.0.2_20260723_031954.apk",
+      "sha256": "82f24cc0cb2885c4ec0244a913be12e4df9ceb62085607eceb237de5933b3596",
+      "signature": "giD3HP8i3nlwZDWyvOuA4e6qgrf6+hoyqpZdA1GBJXxqgcI9cU/89silXmJoLnTUY7ar9jiu5V4aIoUHZvu+XTWSGlOIjL59YZkSc9AhKMh1V8ZizpKqZplkHfZ8hmMKGx15Kb3itN4/e5Lqknf1WNqVxNlwK6VpIm6yTs2PVEvRK1K2pW+Gpf8kS5IRMC6eEa79dNRRcOFXLwOcNl6lLAcC5W/+PUWgFOsrIn63FxHS5WIu3n+bh2vho6J3oqCJzd/6dTz0xItt0iPoy/XScHuwYC+Y8xAFu/1ifDJ4yQTHMupfskTqSAphDWOlHSVrjmRXbJGpTfmyDSLlmlCy9w==",
+      "minHostVersion": 1
     }
   ]
 }
