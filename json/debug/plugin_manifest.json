@@ -178,10 +178,10 @@
     },
     {
       "id": "wallet",
-      "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-wallet_Debug_1.0.3_20260723_041835.apk",
-      "sha256": "c52767621e7bc503c8441d8ae59e164e03ddcb9324d74f30b9bc509af0e78441",
-      "signature": "EaeRZy78Eq807b3EUtJV2LLO2iiICWt6YdDCYAx7pYmXWlsiKc7hM9VBQzkR42pVeXZq3Z6Yn+UF0X3SSZNcY8s/kTooX8T2gJyxJ2hW5QlpSFM7vpruPqofDxSuPKVBf/l4mb7FgRKL186CvaiVXA1Hba4XPMdOpxs4JS9BmOkUxrcrH+5A4/FbiG11vq/+kBIN06DzR3tj40DKZX5heFN5RIGRcdqgcN5sokHez/miSg8EiEyJOXc3ViPkT5mC4f4Bd+u04pxERJVqSD9GewNEQuyKbj/PFyP1yiLcMY68h9cJ3ci39GUzpIm32tC9JnUa0IqvgJq2VxkapbKDSA==",
+      "version": "1.0.4",
+      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-wallet_Debug_1.0.4_20260723_093633.apk",
+      "sha256": "246c95cb9d80cfc1a8edf5002f8b9ee233804f0ef233881acd146b7846786b2e",
+      "signature": "OIsAxNXg+hgcB8YxGnudqj4AvblBlu6YH8cU/vkqIgeTQmTd/D04016gqlnnq+5/CD7hJ4NWOOVe/LSbf7tTmrF/wMAoznEx2xZLfAjOJPhCUOSJfi0yFSfb8j8BPzvzZ7C7NxuA6kInfsoLe9zXWpqo71mFFr7OlfTl07zJPPF0lgWEpVTBat59poWUIikkaE3+xE/yyUgUh4NBziBjRPB4QQ0NOEg48pGAmMUCG9CKRIw9CojaWDv0ULoR2xqTGHc39YL/flxWzVdMijzQ8WpexGa37VzW9yTYSrTnYg1VE8Lgr2tIvIPm7t5v+qWwGW0L+1vlHmYrAv0AkG4Oiw==",
       "minHostVersion": 150
     },
     {
