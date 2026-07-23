@@ -131,7 +131,7 @@
     {
       "id": "plugin-manager",
       "version": "1.0.5",
-      "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/live2026-plugin-manager_Debug_1.0.5_20260722_131037.apk",
+      "url": "https://github.com/Khaos116/ShadowRes/releases/download/shadowres-debug/live2026-plugin-manager_Debug_1.0.5_20260722_131037.apk",
       "sha256": "04ef74d6f4143055c689914e8017e2e88e9a04e0601c9d8f66b675c90e44b71a",
       "signature": "Q6RkaljvXop88cMRKNFyh9Ut450VSQOwg4sniOuVpkeCxIIOjgMLyY7zUcpGbRQZYzikudzeNuWLtbsb+ZM1/QxCsZezwux4kaeQLm+b7yZxU1idCnN1DL8kfsyAj2WcPo3302iKb8Gt6g+LXj1VBJE3wjcj+hw6DwWm3EnTnY07W+ZNpBbOBCzA/B5kJfA2+xkxeTqR2gcHKPj4lNIs2Cxt7U4Cy8qTEUz3oewzIMSnAHa5UGFsxyg5umHDseBXhjY0ysfRmtMdAnV+pIXdIZpql2Tsstt2AJWiDMQNXN3wfggdpRQfOdWORtF5ozZCZ5josHcNItGlJaYdrpgGqg==",
       "minHostVersion": 145
