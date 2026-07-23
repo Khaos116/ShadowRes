@@ -1,8 +1,8 @@
 {
-  "versionCode": 154,
-  "versionName": "1.0.54",
-  "url": "https://raw.githubusercontent.com/Khaos116/ShadowRes/main/apk/debug/app_Debug_1.0.54_20260723_043347.apk",
-  "sha256": "0a56b011e8ec23114beb41d2e5fed50911a42e7241c869de34ab043915e99301",
-  "sizeBytes": 8261978,
-  "fileName": "app_Debug_1.0.54_20260723_043347.apk"
+  "versionCode": 155,
+  "versionName": "1.0.55",
+  "url": "https://github.com/Khaos116/ShadowRes/releases/download/shadowres-debug/app_Debug_1.0.55_20260723_095734.apk",
+  "sha256": "5a69aff44dcfabfa87a666fc056efefaeacd51a5112221458b8017dc2337cb37",
+  "sizeBytes": 8261982,
+  "fileName": "app_Debug_1.0.55_20260723_095734.apk"
 }
